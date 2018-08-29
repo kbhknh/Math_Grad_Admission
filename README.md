@@ -5,10 +5,12 @@ Mathematics Graduate Progam Admission Info for 2019-2020 Academic Year
 School|Note|Deadline|contact|fee|Institution code|Department code|
 ------|----|--------|-------|---|----------------|---------------|
 [Princeton](https://www.math.princeton.edu/graduate/admissions)|Should report Fall semester grades|Dec 15|[gs@princeton.edu](mailto:gs@princeton.edu) or (609) 258-3034|$90|2672|None|
+[Harvard](https://gsas.harvard.edu/admissions/apply) | optional Fall semester grades | TBA | [admiss@fas.harvard.edu](mailto:admiss@fas.harvard.edu) or (617) 495-5396 | $105 | 3451 | -
+
 
 
 ## Princeton
-US News Rank: Math #1, Analysis #2
+[US News Rank][1]: Math #1, Analysis #2
 
 * [Fields of Study - Mathematics](https://gradschool.princeton.edu/academics/fields-study/mathematics)
 
@@ -35,9 +37,9 @@ Application Material|Notes
 --------------------|-----
 [Deadline and Fees](https://gradschool.princeton.edu/admission/applying-princeton/deadlines-and-fees)| Deadline differs by department **Math: December 15**
 [State of Academic Purpose](https://gradschool.princeton.edu/admission/applying-princeton/statement-academic-purpose) | 1,000 word limit, English
-[Resume/CV](https://gradschool.princeton.edu/resumecurriculum-vitae) | 
+[Resume/CV](https://gradschool.princeton.edu/resumecurriculum-vitae) | employment, activities, community service, education, and academic or professional honors
 [Recommendation Letters](https://gradschool.princeton.edu/recommendation-letters) | 3 electronic letters. Register recommenders' email address within application
-[Transcripts](https://gradschool.princeton.edu/transcripts) | English, black&white, <3000dpi, <10MB _screenshots not allowed_
+[Transcripts](https://gradschool.princeton.edu/transcripts) | English, black&white, <3000dpi, <10MB,  _screenshots not allowed_
 [Fall semester grades](https://gradschool.princeton.edu/fall-semester-grades) | Report Fall semester grades when they become available(_Even after the deadline_)
 [GRE](https://gradschool.princeton.edu/prerequisite-tests) | General and Subject Math
 [English Language Test](https://gradschool.princeton.edu/english-language-tests) | Name should match, _no department codes used_
@@ -79,8 +81,45 @@ When scanning hard copy materials to upload into an application, please note:
 
 
 
-##Havard
-US News Rank: Math #2(4 tied), Analysis #8
+## Harvard
+[US News Rank][1]: Math #2(4 tied), Analysis #8
+
+* [Harvard Mathematics Department Admission Info](http://www.math.harvard.edu/graduate/index.html#admission)
+
+#### Application Deadline:  TBA
+
+###Preparing the Application
+The **statement of purpose** for graduate applications is carefully weighted by the admissions committee. The applicant's statement should convince the committee that he or she is able to communicate effectively and with a deep understanding of mathematics. It is not intended to be a biographical sketch or a reflection on one's decision to enter the field.
+
+Three **letters of recommendation** are required. Letter writers should be faculty or others qualified to evaluate the applicant's potential for graduate study in mathematics. The letters must be submitted online and by the application deadline.
+
+Applicants should include any **research papers, publications, and other original works** they would like to have evaluated by the admissions committee.
+
+The department requires all applicants to submit **GRE Mathematics Subject Test** scores. Applicants should check on the ETS website for test dates in their area to insure the scores will be submitted before the application deadline. While the admissions committee reviews all applications submitted before the deadline, missing math subject test scores provide one less data point available to evaluate the application. Depending on the applicant pool and the strength of the application materials, the missing subject test scores may put the application at a disadvantage. 
+
+The Graduate School requires scores to be submitted for the General Test of the Graduate Record Examinations (**GRE**).
+
+Applicants whose native language is other than English and who do not hold the equivalent of a US Bachelor degree from an institution at which English is the language of instruction must submit scores from the Internet Based Test (IBT) of the Test of English as a Foreign Language (**TOEFL**).
+
+The Graduate School requires applicants to upload an electronic copy of undergraduate **transcripts**. Hard copies of official transcripts are not required at the time of application.
+
+
+#### Required Application Materials [link](https://gsas.harvard.edu/admissions/apply)
+Application Material|Notes
+--------------------|-----
+Online form and fee | $105
+Transcript | upload electronic copy, English, fall grade optional(may not be considered)
+Letters of recommendation | at least one from your school, provide e-mail when applying
+State of purpose | -
+GRE | code 3451
+English proficiency demonstration | code 3451
+
+
+
+
+
+[1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
+
 
 
 
