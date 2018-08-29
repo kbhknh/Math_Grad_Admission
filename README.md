@@ -3,7 +3,7 @@ Mathematics Graduate Progam Admission Info for 2019-2020 Academic Year
 
 ## Overview
 School|Note|Deadline|contact|fee|Institution code|Department code|
-------|----|-------|--------|-------|---|----------------|---------------|
+------|----|--------|-------|---|----------------|---------------|
 [Princeton](https://www.math.princeton.edu/graduate/admissions)|Should report Fall semester grades|Dec 15|[gs@princeton.edu](mailto:gs@princeton.edu) or (609) 258-3034|$90|2672|None|
 
 
