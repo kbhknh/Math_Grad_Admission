@@ -7,8 +7,9 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Princeton](#princeton)|Should report Fall semester grades|Dec 15|[gs@princeton.edu](mailto:gs@princeton.edu) or (609) 258-3034| [$90](https://www.math.princeton.edu/graduate/admissions "Admission site") |2672|None|
 [Harvard](#harvard) | optional Fall semester grades | TBA | [admiss@fas.harvard.edu](mailto:admiss@fas.harvard.edu) or (617) 495-5396 | [$105](https://gsas.harvard.edu/admissions/apply "Admission site") | 3451 | -
 [MIT](#mit) | - | Dec 15 | - | [$75](https://gradapply.mit.edu/math "Admission site") | 3514 | 0703(GRE), 72(TOEFL)
-[Stanford](#stanford) | mail 2 hard copies of your official transcripts | **Dec 11** |  mathgradadmissions@stanford.edu | [$125](https://gradadmissions.stanford.edu/applying "Admission site") | 4704 | Unnecessary | 
-[UC Berkeley](#uc-berkeley) | Personal Statement(and SOP??) | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703 |
+[Stanford](#stanford) | mail 2 hard copies of your official transcripts | **Dec 11** | [mathgradadmissions@stanford.edu](mailto:mathgradadmissions@stanford.edu) | [$125](https://gradadmissions.stanford.edu/applying "Admission site") | 4704 | Unnecessary | 
+[UC Berkeley](#uc-berkeley) | Personal Statement(and SOP??) | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703(GRE) |
+[Chicago](#university-of-chicago) | - | Dec 15 | [memuir@uchicago.edu](mailto:memuir@uchicago.edu) or 773-702-1902 | [$90](https://apply-psd.uchicago.edu/apply/ "Admission site") | 1832 | 0703(GRE), 72(TOEFL) |
 
 
 
@@ -227,9 +228,26 @@ Letters of Recommendation | 3 letters
 #### [Statement of Purpose](https://grad.berkeley.edu/admissions/apply/statement-purpose/ "link"): required??
 
 
+## University of Chicago
+US News Rank: [Math][1] #6, [Analysis][2] #5(2 tied)
+
+* [University of Chicago Dept. of Mathematics](https://math.uchicago.edu/graduate/how-to-apply/)
+
+#### Application Deadline: December 15
+
+To apply, you will need to complete the [online application form](https://apply-psd.uchicago.edu/apply/).
+
+In addition to answering all questions on the form, you must also use the form to submit the following documents. The admissions committee will not formally consider your application until all of the materials listed below have been received.
+
+* Original transcripts and official translations from all undergraduate and graduate institutions attended
+* General GRE score
+* Mathematics Subject GRE score
+* At least three letters of recommendation
+* TOEFL or IELTS scores (international applicants only)
+* $90 nonrefundable application fee
+* For Astronomy & Astrophysics, Computational and Applied Mathematics, Computer Science (Master's and PhD), Financial Math, **Mathematics**, Physical Sciences, Physics, Physics Bridge, Statistics (MS and PhD): a resume or CV
+
+
+
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
 [2]: https://www.usnews.com/best-graduate-schools/search?program=top-science-schools&specialty=mathematical-analysis
-
-
-
-
