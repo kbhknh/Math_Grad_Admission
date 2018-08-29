@@ -88,7 +88,7 @@ When scanning hard copy materials to upload into an application, please note:
 
 #### Application Deadline:  TBA
 
-###Preparing the Application
+### Preparing the Application
 The **statement of purpose** for graduate applications is carefully weighted by the admissions committee. The applicant's statement should convince the committee that he or she is able to communicate effectively and with a deep understanding of mathematics. It is not intended to be a biographical sketch or a reflection on one's decision to enter the field.
 
 Three **letters of recommendation** are required. Letter writers should be faculty or others qualified to evaluate the applicant's potential for graduate study in mathematics. The letters must be submitted online and by the application deadline.
