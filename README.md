@@ -7,7 +7,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Princeton](https://www.math.princeton.edu/graduate/admissions)|Should report Fall semester grades|Dec 15|[gs@princeton.edu](mailto:gs@princeton.edu) or (609) 258-3034|$90|2672|None|
 [Harvard](https://gsas.harvard.edu/admissions/apply) | optional Fall semester grades | TBA | [admiss@fas.harvard.edu](mailto:admiss@fas.harvard.edu) or (617) 495-5396 | $105 | 3451 | -
 [MIT](https://gradapply.mit.edu/math) | - | Dec 15 | - | $75 | 3514 | 0703(GRE), 72(TOEFL)
-[Stanford](https://gradadmissions.stanford.edu/applying) | mail 2 hard copies of your official transcripts | **Dec 11** |  [mathgradadmissions@stanford.edu](mailto: mathgradadmissions@stanford.edu) | $125 | 4704 | Unnecessary |
+[Stanford](https://gradadmissions.stanford.edu/applying) | mail 2 hard copies of your official transcripts | **Dec 11** |  mathgradadmissions@stanford.edu | $125 | 4704 | Unnecessary |
 
 
 
