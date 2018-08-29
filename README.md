@@ -8,6 +8,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Harvard](https://gsas.harvard.edu/admissions/apply) | optional Fall semester grades | TBA | [admiss@fas.harvard.edu](mailto:admiss@fas.harvard.edu) or (617) 495-5396 | $105 | 3451 | -
 [MIT](https://gradapply.mit.edu/math) | - | Dec 15 | - | $75 | 3514 | 0703(GRE), 72(TOEFL)
 [Stanford](https://gradadmissions.stanford.edu/applying) | mail 2 hard copies of your official transcripts | **Dec 11** |  mathgradadmissions@stanford.edu | $125 | 4704 | Unnecessary |
+[UC Berkeley](https://grad.berkeley.edu/admissions/apply/) | Personal Statement(and SOP??) | **Dec 17** | [gradadm@berkeley.edu](mailto: gradadm@berkeley.edu) or (510) 642-7405 | $125 | 4833 | 0703 |
 
 
 
@@ -180,8 +181,50 @@ Application Material|Notes
 * an official transcript is one that has been signed and sealed by the college/university registrar and is received by Stanford in its original, sealed envelope
 
 
+## UC Berkeley
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #3
 
+* [Dept. of Math at UC Berkeley](https://math.berkeley.edu/programs/graduate/admissions)
 
+#### Application Deadline: 8:59 PM (PT)/11:59 PM (ET), December 17, 2018
+
+### Admissions Requirements 
+* [link](https://grad.berkeley.edu/admissions/requirements/)
+* Basic Requirements: GPA(3.0/4.0)
+* If your undergraduate institution does not use a 4-point grading scale please do not convert your GPA to match the 4.0 scale. Instead, leave the section blank, or write in 0.00. The faculty review committee will be able to see your true academic performance from your uploaded unofficial transcripts. 
+
+Application Material|Notes
+--------------------|-----
+Trasnscript | Upload unofficial ones, _official ones required **when admitted**_
+TOEFL | min score 90
+GRE | General and Subject Math
+Letters of Recommendation | 3 letters
+
+#### [Personal Statement](https://grad.berkeley.edu/admissions/apply/personal-statement/ "link")
+
+* What does this statement need to accomplish?
+	>The personal statement should give concrete evidence of your promise as a member of the academic community, giving the committee an image of you as a person.
+	This is also where you represent your potential to bring to your academic career a critical perspective rooted in a non-traditional educational background, or your understanding of the experiences of groups historically under-represented in higher education and your commitment to increase participation by a diverse population in higher education.
+
+* What kinds of content belongs here?
+	>Anything that can give reviewers a sense of you as a person belongs here; you can repeat information about your experiences in your research statement, but any experiences that show your promise, initiative, and ability to persevere despite obstacles belongs here. This is also a good place to display your communication skills and discuss your ability to maximize effective collaboration with a diverse cross-section of the academic community. If you have faced any obstacles or barriers in your education, sharing those experiences serves both for the selection process, and for your nomination for fellowships. If one part of your academic record is not ideal, due to challenges you faced in that particular area, this is where you can explain that, and direct reviewers’ attention to the evidence of your promise for higher education.
+
+* The basic message: your academic achievement despite challenges
+	>It is especially helpful for admissions committees considering nominating you for fellowships for diversity if you discuss any or all of the following:
+
+	* Demonstrated significant academic achievement by overcoming barriers such as economic, social, or educational disadvantage;
+	* Potential to contribute to higher education through understanding the barriers facing women, domestic minorities, students with disabilities, and other members of groups underrepresented in higher education careers, as evidenced by life experiences and educational background. For example,,
+		* attendance at a minority serving institution;
+		* ability to articulate the barriers facing women and minorities in science and engineering fields;
+		* participation in higher education pipeline programs such as, UC Leads, or McNair Scholars;
+	* Academic service advancing equitable access to higher education for women and racial minorities in fields where they are underrepresented;
+	* Leadership experience among students from groups that have been historically underrepresented in higher education;
+	* Research interests focusing on underserved populations and understanding issues of racial or gender inequalities. For example,
+		* research that addresses issues such as race, gender, diversity, and inclusion;
+		* research that addresses health disparities, educational access and achievement, political engagement, economic justice, social mobility, civil and human rights, and other questions of interest to historically underrepresented groups;
+		* artistic expression and cultural production that reflects culturally diverse communities or voices not well represented in the arts and humanities.
+
+#### [Statement of Purpose](https://grad.berkeley.edu/admissions/apply/statement-purpose/ "link"): required??
 
 
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
