@@ -7,6 +7,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Princeton](https://www.math.princeton.edu/graduate/admissions)|Should report Fall semester grades|Dec 15|[gs@princeton.edu](mailto:gs@princeton.edu) or (609) 258-3034|$90|2672|None|
 [Harvard](https://gsas.harvard.edu/admissions/apply) | optional Fall semester grades | TBA | [admiss@fas.harvard.edu](mailto:admiss@fas.harvard.edu) or (617) 495-5396 | $105 | 3451 | -
 [MIT](https://gradapply.mit.edu/math) | - | Dec 15 | - | $75 | 3514 | 0703(GRE), 72(TOEFL)
+[Stanford](https://gradadmissions.stanford.edu/applying) | mail 2 hard copies of your official transcripts | **Dec 11** | [mathgradadmissions@stanford.edu](mailto: mathgradadmissions@stanford.edu) | $125 | 4704 | Unnecessary |
 
 
 
@@ -83,7 +84,7 @@ When scanning hard copy materials to upload into an application, please note:
 
 
 ## Harvard
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied)
 
 * [Harvard Mathematics Department Admission Info](http://www.math.harvard.edu/graduate/index.html#admission)
 
@@ -151,6 +152,33 @@ _Admission site opens on September 14._
 		77 Massachusetts Ave.  
 		Cambridge MA 02139-4307  
 		USA
+
+
+## Stanford
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied)
+
+* [Stanford Math Grad Program Admission info](https://mathematics.stanford.edu/academics/graduate/graduate-admissions/)
+
+#### Application Deadline : Tuesday, December 11, 2018, 11:59PM Pacific Time.
+
+
+#### Online Application Materials
+Application Material|Notes
+--------------------|-----
+[GRE and TOEFL](https://gradadmissions.stanford.edu/applying/starting-your-application/required-exams) | General, Subject Math, TOEFL(min score 100)
+[Statement of Purpose](https://gradadmissions.stanford.edu/applying/starting-your-application/required-application-documents/statement-purpose) | < 2 pages, single-spaced, _English Fonts_
+[Transcript](https://gradadmissions.stanford.edu/applying/starting-your-application/required-application-documents/transcripts-academic-records-0) | upload a scanned copy and **send an official transcript**
+[Letters of Recommendation](https://gradadmissions.stanford.edu/applying/starting-your-application/required-application-documents/letters-recommendation) | provide e-mails of **3** recommenders, at least one from your school
+[Application Fee](https://gradadmissions.stanford.edu/applying/starting-your-application/application-fee-payment) | $125, Visa or MasterCard only
+
+
+* Have your institution(s) mail **2 hard copies** of your official transcripts/academic records to the following address:
+		Department of Mathematics
+		Graduate Admissions
+		450 Serra Mall, Building 380
+		Stanford, CA 94305-2125
+* an official transcript is one that has been signed and sealed by the college/university registrar and is received by Stanford in its original, sealed envelope
+
 
 
 
