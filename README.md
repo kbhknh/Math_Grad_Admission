@@ -2,36 +2,51 @@ Mathematics Graduate Progam Admission Info for 2019-2020 Academic Year
 ==============================================
 
 ## Overview
-School|Things to be sent by mail|Address|Deadline|contact|fee|Institution code|Department code|
-------|-------------------------|-------|--------|-------|---|----------------|---------------|
-Princeton| | |12.15|[gs@princeton.edu](mailto:gs@princeton.edu) or (609) 258-3034|$90|2672|None|
+School|Note|Deadline|contact|fee|Institution code|Department code|
+------|----|-------|--------|-------|---|----------------|---------------|
+[Princeton](https://www.math.princeton.edu/graduate/admissions)|Should report Fall semester grades|Dec 15|[gs@princeton.edu](mailto:gs@princeton.edu) or (609) 258-3034|$90|2672|None|
 
 
 ## Princeton
 US News Rank: Math #1, Analysis #2
 
-#### Application Deadline:  December 15
+* [Fields of Study - Mathematics](https://gradschool.princeton.edu/academics/fields-study/mathematics)
+
+#### Application Deadline:  December 15, 11:59PM Eastern Standard Time
 
 #### Required Application Materials:
 
-* [Electronic application][1]
+* [Electronic application](http://www.princeton.edu/gradschool/admission/applicants/applying/application/)
 * Statement of Academic Purpose
 * Resume/CV
-* [GREs - General and Math Subject tests][2]  - _no minimum scores required_
+* [GREs - General and Math Subject tests](http://www.ets.org/)  - _no minimum scores required_
 * Three letters of recommendation
 * Transcript(s) - One transcript from every college/university from which you have earned, or expect to earn a degree, **must be uploaded** with your electronic application. The Graduate School does not accept mailed transcripts. The transcript you obtain does NOT have to be official.
-* English language proficiency:  [TOEFL/IELTS][3]
+* English language proficiency:  [TOEFL/IELTS](http://www.princeton.edu/gradschool/admission/applicants/applying/toefl_ielts/)
 
 Program Length: Four years; however, a fifth year is often granted if approved in advance.
 
-If your interest is in applied and computational mathematics, you must apply directly to the [Program in Applied and Computational Mathematics (PACM).][4]
+If your interest is in applied and computational mathematics, you must apply directly to the [Program in Applied and Computational Mathematics (PACM).](http://www.pacm.princeton.edu/graduate)
 
-[1]: http://www.princeton.edu/gradschool/admission/applicants/applying/application/
-[2]: http://www.ets.org/
-[3]: http://www.princeton.edu/gradschool/admission/applicants/applying/toefl_ielts/
-[4]: http://www.pacm.princeton.edu/graduate
 
-### Apply
+
+### Applying to Princeton
+Application Material|Notes
+--------------------|-----
+[Deadline and Fees](https://gradschool.princeton.edu/admission/applying-princeton/deadlines-and-fees)| Deadline differs by department **Math: December 15**
+[State of Academic Purpose](https://gradschool.princeton.edu/admission/applying-princeton/statement-academic-purpose) | 1,000 word limit, English
+[Resume/CV](https://gradschool.princeton.edu/resumecurriculum-vitae) | 
+[Recommendation Letters](https://gradschool.princeton.edu/recommendation-letters) | 3 electronic letters. Register recommenders' email address within application
+[Transcripts](https://gradschool.princeton.edu/transcripts) | English, black&white, <3000dpi, <10MB _screenshots not allowed_
+[Fall semester grades](https://gradschool.princeton.edu/fall-semester-grades) | Report Fall semester grades when they become available(_Even after the deadline_)
+[GRE](https://gradschool.princeton.edu/prerequisite-tests) | General and Subject Math
+[English Language Test](https://gradschool.princeton.edu/english-language-tests) | Name should match, _no department codes used_
+
+
+
+
+
+#### Apply
 *   Application materials should only be uploaded online in the appropriate spaces provided and under the additional information section of the application. Princeton does not accept paper application materials, with the exception of architecture portfolios. Please refer to the [upload requirements](http://gradschool.princeton.edu/node/173) webpage for specific instructions on uploading materials. Also, please be sure to review any additional [department requirements](http://gradschool.princeton.edu/node/174) that may be required.
 *   All test scores must be sent directly from the test center to Princeton University (Institution Code 2672). Department codes are not used at Princeton and are not required by [Educational Testing Services](http://www.ets.org/) (ETS). Please refer to the [Prerequisite Tests](http://gradschool.princeton.edu/node/142) webpage for specific information on the tests. Please allow extra time for test scores to be received and reflected on the application checklist.
 *   Do not wait for recommenders to submit their recommendations. See the [Recommendation Letters](http://gradschool.princeton.edu/node/143) webpage for more information.
@@ -64,7 +79,8 @@ When scanning hard copy materials to upload into an application, please note:
 
 
 
-Havard
-================================================
+##Havard
 US News Rank: Math #2(4 tied), Analysis #8
+
+
 
