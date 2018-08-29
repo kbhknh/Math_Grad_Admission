@@ -10,6 +10,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Stanford](#stanford) | mail 2 hard copies of your official transcripts | **Dec 11** | [mathgradadmissions@stanford.edu](mailto:mathgradadmissions@stanford.edu) | [$125](https://gradadmissions.stanford.edu/applying "Admission site") | 4704 | Unnecessary | 
 [UC Berkeley](#uc-berkeley) | Personal Statement(and SOP??) | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703(GRE) |
 [Chicago](#university-of-chicago) | - | Dec 15 | [memuir@uchicago.edu](mailto:memuir@uchicago.edu) or 773-702-1902 | [$90](https://apply-psd.uchicago.edu/apply/ "Admission site") | 1832 | 0703(GRE), 72(TOEFL) |
+[Columbia](#columbia-university) | send official transcript _after_ admission | TBA(_was Dec 14_) | [gsas-admissions@columbia.edu](mailto:gsas-admissions@columbia.edu) or (212) 854-6729 | [$110]( "Admission site") | 2162 | None
 
 
 
@@ -247,6 +248,28 @@ In addition to answering all questions on the form, you must also use the form t
 * $90 nonrefundable application fee
 * For Astronomy & Astrophysics, Computational and Applied Mathematics, Computer Science (Master's and PhD), Financial Math, **Mathematics**, Physical Sciences, Physics, Physics Bridge, Statistics (MS and PhD): a resume or CV
 
+
+## Columbia University
+US News Rank: [Math][1] #7(2 tied), [Analysis][2] #13
+
+* [Columbia Math Dept. Site](http://www.math.columbia.edu/programs-math/graduate-program/admissions/)
+
+#### Application Deadline: TBA
+
+#### The Application Process
+
+* [online application link](https://apply.gsas.columbia.edu/apply)
+* [supporting mater info link](https://gsas.columbia.edu/degree-programs/admissions/supporting-materials)
+
+Application Material|Notes
+--------------------|-----
+Letters of Recommendation | submitted online
+Transcript | online upload, < 300 dpi, < 2MB, _send official one after admission_
+Tests | no dept. code
+State of Academic Purpose | - 
+CV/resume | - 
+writing sample | if required(_unlikely..._)
+Application fee | $110, accepts Visa, MasterCard, American Express, and Discover cards
 
 
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
