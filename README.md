@@ -84,6 +84,11 @@ When scanning hard copy materials to upload into an application, please note:
 *   Black and white is recommended.
 *   Removing images will help reduce the file size.
 
+#### Statement of Academic Purpose
+
+Applicants will be required to upload a statement of academic purpose with the admission application in the space provided. Please write a statement of current academic and future career plans as they relate to the Princeton department to which the applicant is applying. In doing so, please cite relevant academic, professional and personal experiences that influenced the decision to apply for graduate admission and to obtain a graduate degree. The statement should not exceed **1,000 words** and must be written in **English**.
+
+Please be sure to review the final statement before uploading it and submitting the admission application. If an applicant submitted an application and needs to revise the statement of academic purpose, the applicant may upload the corrected version through the checklist if it is before the deadline. After the deadline, no revised statement of academic purpose will be accepted.
 
 
 ## Harvard
@@ -115,9 +120,16 @@ Application Material|Notes
 Online form and fee | $105
 Transcript | upload electronic copy, English, fall grade optional(may not be considered)
 Letters of recommendation | at least one from your school, provide e-mail when applying
-State of purpose | -
-GRE | code 3451
-English proficiency demonstration | code 3451
+State of purpose | 1,000 word limit; word or PDF
+GRE & TOEFL | code 3451
+
+#### Statement of Purpose
+
+Describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting **the experiences that shaped your research ambitions**, indicating briefly **your career objectives**, and concisely stating **your past work** in your intended field of study and in related fields. _Your statement should not exceed 1,000 words_.
+
+**Mathematics** applicants: Your statement of purpose should be written for the admissions committee, which consists of faculty members in the department, describing your **mathematical activities over the last few years, your current interests, and your plans for the future**. Your statement should convince the admissions committee that you are able to communicate effectively and with a deep understanding of mathematics.
+
+Upload your statement of purpose as a _Microsoft Word document_ or a _PDF_ file
 
 
 ## MIT
@@ -182,6 +194,16 @@ Application Material|Notes
 		Stanford, CA 94305-2125
 * an official transcript is one that has been signed and sealed by the college/university registrar and is received by Stanford in its original, sealed envelope
 
+#### Statement of Purpose
+
+Describe in your statement of purpose:
+
+* Your reasons for applying to the proposed program at Stanford and your preparation for this field of study
+* Your research and study interests
+* Future career plans and other aspects of your background and interests which may aid the admission committee in evaluating your aptitude and motivation for graduate study
+
+You may upload one file; it should not exceed **two pages** in length, **single-spaced**. Make sure to set your computer to Western European or other English-language setting. We cannot guarantee the ability to access your statement if it is submitted in other fonts.
+
 
 ## UC Berkeley
 US News Rank: [Math][1] #2(4 tied), [Analysis][2] #3
@@ -228,6 +250,37 @@ Letters of Recommendation | 3 letters
 
 #### [Statement of Purpose](https://grad.berkeley.edu/admissions/apply/statement-purpose/ "link"): required??
 
+* Part 1: Introduce yourself, your interests and motivations
+	* Tell them what you’re interested in, and perhaps, what sparked your desire for graduate study. This should be short and to the point; don’t spend a great deal of time on autobiography.
+
+
+
+* Part 2: Summarize your undergraduate and previous graduate career
+	* Research you conducted. Indicate with whom, the title of the project, what your responsibilities were, and the outcome. Write technically, or in the style of your discipline. Professors are the people who read these statements.
+	* Important paper or thesis project you completed, as well as anything scholarly beyond your curricular requirements.
+	* Work experience, especially if you had any kind of responsibility for testing, designing, researching or interning in an area similar to what you wish to study in graduate school.
+
+
+
+* Part 3: Discuss the relevance of your recent and current activities
+	* If you graduated and worked prior to returning to grad school, indicate what you’ve been doing: company or non-profit, your work/design team, responsibilities, what you learned. You can also indicate here how this helped you focus your graduate studies.
+	
+
+* Part 4: Elaborate on your academic interests
+	* Here you indicate what you would like to study in graduate school in enough detail to convince the faculty that you understand the scope of research in their discipline, and are engaged with current research themes.
+		* Indicate the area of your interests. Ideally, pose a question, define a problem, or indicate a theme that you would like to address, and questions that arise from contemporary research. This should be an ample paragraph!
+		* Look on the web for information about departments you’re interested in, including professors and their research. Are there professors whose research interests parallel yours? If so, indicate this. Check the specific program; many may require you to name a professor or professors with whom you might work.
+		* End your statement in a positive manner, indicating your excitement and readiness for the challenges ahead of you.
+		
+
+* Essential Tips
+	* What the admissions committee will read between the lines: self-motivation, competence, potential as a graduate student.
+	* Emphasize everything from a positive perspective and write in an active, not a passive voice.
+	* Demonstrate everything by example; don’t say directly that you’re a persistent person, show it.
+	* If there is something important that happened to you that affected your grades, such as poverty, illness, or excessive work, state it. Write it affirmatively, showing your perseverance despite obstacles. You can elaborate more in your personal statement.
+	* Make sure everything is linked with continuity and focus.
+	* Unless the specific program says otherwise, be concise; an ideal essay should say everything it needs to with brevity. Approximately 500 to 1000 well-selected words (1-2 single space pages in 12 point font) is better than more words with less clarity and poor organization.
+
 
 ## University of Chicago
 US News Rank: [Math][1] #6, [Analysis][2] #5(2 tied)
@@ -249,6 +302,10 @@ In addition to answering all questions on the form, you must also use the form t
 * For Astronomy & Astrophysics, Computational and Applied Mathematics, Computer Science (Master's and PhD), Financial Math, **Mathematics**, Physical Sciences, Physics, Physics Bridge, Statistics (MS and PhD): a resume or CV
 
 
+#### Statement of Purpose
+This is an opportunity for you to explain the reasons behind your desire to pursue graduate study in mathematics. You may wish to discuss any relevant facts about your education or experience with mathematics which are not apparent in the other material you submit, the kind of mathematics you find interesting or wish to pursue in graduate school, and what you plan to do after obtaining a Ph.D.
+
+
 ## Columbia University
 US News Rank: [Math][1] #7(2 tied), [Analysis][2] #13
 
@@ -266,10 +323,15 @@ Application Material|Notes
 Letters of Recommendation | submitted online
 Transcript | online upload, < 300 dpi, < 2MB, _send official one after admission_
 Tests | no dept. code
-State of Academic Purpose | - 
+State of Academic Purpose | Approximately 1,000 words
 CV/resume | - 
 writing sample | if required(_unlikely..._)
 Application fee | $110, accepts Visa, MasterCard, American Express, and Discover cards
+
+#### Statement of Academic Purpose
+All applicants must submit a statement of academic purpose. Please compose a succinct statement of **approximately 1,000 words** describing your **past academic work and preparation** related to your intended field of study, your **plans for graduate study** at Columbia, and your subsequent **career objectives**. If you intend to transfer from a graduate program at another university, please explain why you wish to do so. If you are not currently pursuing an academic program, please describe your activities since you were last enrolled in an academic institution. _If there has been a break in your educational experience, please include a brief explanation._
+
+__Please note:__ The statement of academic purpose that you upload should be the final version that you wish the faculty committee to review. Once your application is submitted, this document cannot be changed or replaced.
 
 
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
