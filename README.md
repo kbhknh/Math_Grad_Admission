@@ -5,7 +5,7 @@ Mathematics Graduate Progam Admission Info for 2019-2020 Academic Year
 School|Note|Deadline|contact|fee|Institution code|Department code|
 ------|----|--------|-------|---|----------------|---------------|
 [Princeton](#princeton)|Should report Fall semester grades|Dec 15|[gs@princeton.edu](mailto:gs@princeton.edu) or (609) 258-3034| [$90](https://www.math.princeton.edu/graduate/admissions "Admission site") |2672|None|
-[Harvard](#harvard) | optional Fall semester grades | TBA | [admiss@fas.harvard.edu](mailto:admiss@fas.harvard.edu) or (617) 495-5396 | [$105](https://gsas.harvard.edu/admissions/apply "Admission site") | 3451 | -
+[Harvard](#harvard) | optional Fall semester grades | Dec 15 | [admiss@fas.harvard.edu](mailto:admiss@fas.harvard.edu) or (617) 495-5396 | [$105](https://gsas.harvard.edu/admissions/apply "Admission site") | 3451 | -
 [MIT](#mit) | - | Dec 15 | - | [$75](https://gradapply.mit.edu/math "Admission site") | 3514 | 0703(GRE), 72(TOEFL)
 [Stanford](#stanford) | mail 2 hard copies of your official transcripts | **Dec 11** | [mathgradadmissions@stanford.edu](mailto:mathgradadmissions@stanford.edu) | [$125](https://gradadmissions.stanford.edu/applying "Admission site") | 4704 | Unnecessary | 
 [UC Berkeley](#uc-berkeley) | Personal Statement(and SOP??) | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703(GRE) |
@@ -96,7 +96,7 @@ US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied)
 
 * [Harvard Mathematics Department Admission Info](http://www.math.harvard.edu/graduate/index.html#admission)
 
-#### Application Deadline:  TBA
+#### Application Deadline:  December 15, 2018
 
 ### Preparing the Application
 The **statement of purpose** for graduate applications is carefully weighted by the admissions committee. The applicant's statement should convince the committee that he or she is able to communicate effectively and with a deep understanding of mathematics. It is not intended to be a biographical sketch or a reflection on one's decision to enter the field.
