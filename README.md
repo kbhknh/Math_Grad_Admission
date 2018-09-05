@@ -11,11 +11,12 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [UC Berkeley](#uc-berkeley) | Personal Statement(and SOP??) | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703(GRE) |
 [Chicago](#university-of-chicago) | - | Dec 15 | [memuir@uchicago.edu](mailto:memuir@uchicago.edu) or 773-702-1902 | [$90](https://apply-psd.uchicago.edu/apply/ "Admission site") | 1832 | 0703(GRE), 72(TOEFL) |
 [Columbia](#columbia-university) | send official transcript _after_ admission | TBA(_was Dec 14_) | [gsas-admissions@columbia.edu](mailto:gsas-admissions@columbia.edu) or (212) 854-6729 | [$110](https://apply.gsas.columbia.edu/apply/ "Admission site") | 2162 | None
+[Wisconsin](#wisconsin-madison)|Deadline for supporting material is Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
 
 
 
 ## Princeton
-US News Rank: [Math][1] #1, [Analysis][2] #2
+US News Rank: [Math][1] #1, [Analysis][2] #2, [Algebra][3] #3, [Geometry][4] #3(2 tied)
 
 * [Fields of Study - Mathematics](https://gradschool.princeton.edu/academics/fields-study/mathematics)
 
@@ -92,7 +93,7 @@ Please be sure to review the final statement before uploading it and submitting 
 
 
 ## Harvard
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied)
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied), [Algebra][3] #2, [Geometry][4] #1
 
 * [Harvard Mathematics Department Admission Info](http://www.math.harvard.edu/graduate/index.html#admission)
 
@@ -133,7 +134,7 @@ Upload your statement of purpose as a _Microsoft Word document_ or a _PDF_ file
 
 
 ## MIT
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #4
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #4, [Algebra][3] #6, [Geometry][4] #2
 
 * [MIT Mathematics Graduate Admission info](http://math.mit.edu/academics/grad/admission/index.php)
 
@@ -170,7 +171,7 @@ _Admission site opens on September 14._
 
 
 ## Stanford
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied)
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied), [Algebra][3] #4, [Geometry][4] #6
 
 * [Stanford Math Grad Program Admission info](https://mathematics.stanford.edu/academics/graduate/graduate-admissions/)
 
@@ -206,7 +207,7 @@ You may upload one file; it should not exceed **two pages** in length, **single-
 
 
 ## UC Berkeley
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #3
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #3, [Algebra][3] #1, [Geometry][4] #3(2 tied)
 
 * [Dept. of Math at UC Berkeley](https://math.berkeley.edu/programs/graduate/admissions)
 
@@ -283,7 +284,7 @@ Letters of Recommendation | 3 letters
 
 
 ## University of Chicago
-US News Rank: [Math][1] #6, [Analysis][2] #5(2 tied)
+US News Rank: [Math][1] #6, [Analysis][2] #5(2 tied), [Algebra][3] #5, [Geometry][4] #8(2 tied)
 
 * [University of Chicago Dept. of Mathematics](https://math.uchicago.edu/graduate/how-to-apply/)
 
@@ -307,7 +308,7 @@ This is an opportunity for you to explain the reasons behind your desire to purs
 
 
 ## Columbia University
-US News Rank: [Math][1] #7(2 tied), [Analysis][2] #13
+US News Rank: [Math][1] #7(2 tied), [Analysis][2] #13, [Algebra][3] #8(2 tied), [Geometry][4] #7
 
 * [Columbia Math Dept. Site](http://www.math.columbia.edu/programs-math/graduate-program/admissions/)
 
@@ -334,5 +335,44 @@ All applicants must submit a statement of academic purpose. Please compose a suc
 __Please note:__ The statement of academic purpose that you upload should be the final version that you wish the faculty committee to review. Once your application is submitted, this document cannot be changed or replaced.
 
 
+
+## Wisconsin-Madison
+US News Rank: [Math][1] #16, [Analysis][2] #11, [Algebra][3] #11, [Geometry][4] #14+
+
+* [Department of Math](https://www.math.wisc.edu/node/10)
+
+#### Deadlines
+The deadline to submit your application for Fall admission is **December 15th**.
+
+The deadline to submit all supporting application materials for Fall admission is **January 1st**.
+
+* [online application](https://grad.wisc.edu/apply/)
+
+### Admission Requirements
+Typically we expect:
+
+* A GPA of at least 3.0 overall and substantially higher in mathematics courses.
+* 18 or more credits of mathematics beyond calculus. The 18 credits should include at least one semester of both rigorous analysis (sometimes called advanced calculus) and abstract algebra, and preferably two semesters. Advanced undergraduate courses in other topics further strengthen your application.
+* Transcripts or academic records from each institution attended. Transcripts do not have to include fall semester grades. Thus, transcripts may contain courses in progress. International academic records must be in the original language accompanied by an official English translation. Documents should be uploaded as part of the online Graduate School [application](https://grad.wisc.edu/apply/). [If you are recommended for admission, the Gradaute School will request official transcripts.]
+* A “Supplemental Application Form” is part of the online Graduate School [application](https://grad.wisc.edu/apply/). It is important that you include all advanced mathematics courses you have completed, are currently enrolled in, or intend to take. For each course give the name of the school where you took it, the course number, the title, description, books used, and the grade you received (for completed courses). If you have more than 20 courses, please include ONLY the most advanced courses. We are looking for the course descriptions, and books used - this is not just a repeat of transcript information. Your transcript does not give us course descriptions and books used.
+* A statement of reasons for graduate study. Submit this electronically with your online Graduate School [application](https://grad.wisc.edu/apply/).
+* GRE (Graduate Record Exam) scores, including the Subject test in mathematics. In exceptional cases, advanced GRE's from other sciences can be substituted for the advanced GRE in mathematics. December scores will be received online by mid-January. If you have taken the exam by December 15, this will not present a problem. If you take the exam after December, your scores will not reach us in time. You may submit your application without a GRE or Subject test score, but your application may be at a severe disadvantage. Have ETS (Educational Testing Service) electronically submit your scores, using our institution code of **1846**. (There is NO department code. It doesn't matter what department code you choose, the university's central database receives the scores. It is preferable you do not choose a dept code.)
+* Three letters that address the question of mathematical promise. These letters should be from mathematics faculty, or other faculty familiar with the demands of graduate work in mathematics. Please note we do not require forms for letters of recommendation. Have your recommenders submit their letters electronically through your [online application](https://grad.wisc.edu/apply/).
+* Applicants, whose native language is not English or whose undergraduate instruction was not in English, must provide official scores from the TOEFL (Test of English as a Foreign Language). See the [Graduate School’s website](https://grad.wisc.edu/apply/requirements/) for exemptions from taking the TOEFL. Please have ETS electronically submit your scores, using our institution code of **1846**. (There is NO department code.)
+For minimum scores related to the TOEFL Exam, click [here](https://grad.wisc.edu/apply/requirements/). Competitive scores for the TOEFL are 630 (paper), 267 (computer), 109 or above.
+* The Graduate School application fee is currently **75.00**, plus an additional **6.00** international document processing fee for non US citizens. The Mathematics Department is not able to waive these fees.
+
+**International students please note**: if we offer admission and you accept it, we require international students attend a summer (early July to mid August) TA orientation/training program (prior to the start of the semester) and successfully complete the SPEAK test of spoken English (given on campus). This is a mandatory program. By accepting our offer of admission, you are obligated to be here for the program. Attendees are given some financial support during the summer orientation.
+
+If you have any questions about the above requirements, please see the [Frequently Asked Questions (FAQ) page](http://www.math.wisc.edu/graduate/faqs).
+
+* International student financial information will only be requested by the Graduate School after the departmental recommendation for admission. For information on International Student Expenses, please click [here](https://grad.wisc.edu/international-students/).
+* Please check your ‘status check’ sheet online at MyUW to check to see if your materials have arrived. The status check will be available starting December 5. However, if materials were sent through the postal service, the online system will be updated as mail is processed. It could take a few weeks to process the mail. **Please Note**: You must submit your online application before anything can be noted on your status check page.
+
+Decisions for acceptance to the program will not occur until March and we will contact you. If you have not heard from us, it is possible that we are still considering your application. We typically receive over 400 applications. Please refrain from contacting us to find out the status of your application. We can appreciate that you are anxious to hear about the admission decision, however, we have a limited amount of resources to respond to the email requests.
+
+
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
 [2]: https://www.usnews.com/best-graduate-schools/search?program=top-science-schools&specialty=mathematical-analysis
+[3]: https://www.usnews.com/best-graduate-schools/top-science-schools/number-theory-rankings
+[4]: https://www.usnews.com/best-graduate-schools/search?program=top-science-schools&specialty=geometry
