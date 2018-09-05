@@ -11,12 +11,12 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [UC Berkeley](#uc-berkeley) | Personal Statement(and SOP??) | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703(GRE) |
 [Chicago](#university-of-chicago) | - | Dec 15 | [memuir@uchicago.edu](mailto:memuir@uchicago.edu) or 773-702-1902 | [$90](https://apply-psd.uchicago.edu/apply/ "Admission site") | 1832 | 0703(GRE), 72(TOEFL) |
 [Columbia](#columbia-university) | send official transcript _after_ admission | TBA(_was Dec 14_) | [gsas-admissions@columbia.edu](mailto:gsas-admissions@columbia.edu) or (212) 854-6729 | [$110](https://apply.gsas.columbia.edu/apply/ "Admission site") | 2162 | None
-[Wisconsin](#wisconsin-madison)|Deadline for supporting materials is Jan 1|Dec 15||[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
+[Wisconsin](#wisconsin-madison)|Deadline for supporting material is Jan 1|Dec 15|[dymarz@math.wisc.edu](mailto:dymarz@math.wisc.edu)|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
 
 
 
 ## Princeton
-US News Rank: [Math][1] #1, [Analysis][2] #2, [Algebra][3] #3, [Geometry][4] #3
+US News Rank: [Math][1] #1, [Analysis][2] #2, [Algebra][3] #3, [Geometry][4] #3(2 tied)
 
 * [Fields of Study - Mathematics](https://gradschool.princeton.edu/academics/fields-study/mathematics)
 
@@ -93,7 +93,7 @@ Please be sure to review the final statement before uploading it and submitting 
 
 
 ## Harvard
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied), [Algebra][3] #2
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied), [Algebra][3] #2, [Geometry][4] #1
 
 * [Harvard Mathematics Department Admission Info](http://www.math.harvard.edu/graduate/index.html#admission)
 
@@ -134,7 +134,7 @@ Upload your statement of purpose as a _Microsoft Word document_ or a _PDF_ file
 
 
 ## MIT
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #4, [Algebra][3] #6
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #4, [Algebra][3] #6, [Geometry][4] #2
 
 * [MIT Mathematics Graduate Admission info](http://math.mit.edu/academics/grad/admission/index.php)
 
@@ -171,7 +171,7 @@ _Admission site opens on September 14._
 
 
 ## Stanford
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied), [Algebra][3] #4
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #8(2 tied), [Algebra][3] #4, [Geometry][4] #6
 
 * [Stanford Math Grad Program Admission info](https://mathematics.stanford.edu/academics/graduate/graduate-admissions/)
 
@@ -207,7 +207,7 @@ You may upload one file; it should not exceed **two pages** in length, **single-
 
 
 ## UC Berkeley
-US News Rank: [Math][1] #2(4 tied), [Analysis][2] #3, [Algebra][3] #1
+US News Rank: [Math][1] #2(4 tied), [Analysis][2] #3, [Algebra][3] #1, [Geometry][4] #3(2 tied)
 
 * [Dept. of Math at UC Berkeley](https://math.berkeley.edu/programs/graduate/admissions)
 
@@ -284,7 +284,7 @@ Letters of Recommendation | 3 letters
 
 
 ## University of Chicago
-US News Rank: [Math][1] #6, [Analysis][2] #5(2 tied), [Algebra][3] #5
+US News Rank: [Math][1] #6, [Analysis][2] #5(2 tied), [Algebra][3] #5, [Geometry][4] #8(2 tied)
 
 * [University of Chicago Dept. of Mathematics](https://math.uchicago.edu/graduate/how-to-apply/)
 
@@ -308,7 +308,7 @@ This is an opportunity for you to explain the reasons behind your desire to purs
 
 
 ## Columbia University
-US News Rank: [Math][1] #7(2 tied), [Analysis][2] #13, [Algebra][3] #8(2 tied)
+US News Rank: [Math][1] #7(2 tied), [Analysis][2] #13, [Algebra][3] #8(2 tied), [Geometry][4] #7
 
 * [Columbia Math Dept. Site](http://www.math.columbia.edu/programs-math/graduate-program/admissions/)
 
@@ -334,8 +334,20 @@ All applicants must submit a statement of academic purpose. Please compose a suc
 
 __Please note:__ The statement of academic purpose that you upload should be the final version that you wish the faculty committee to review. Once your application is submitted, this document cannot be changed or replaced.
 
+
+
 ## Wisconsin-Madison
-US News Rank: [Math][1] #16, [Analysis][2] #11, [Algebra][3] #11
+US News Rank: [Math][1] #16, [Analysis][2] #11, [Algebra][3] #11, [Geometry][4] #14+
+
+* [Department of Math](https://www.math.wisc.edu/node/10)
+
+#### Application Deadline:  December 15
+
+
+
+### Applying to Wisconsin-Madison
+
+
 
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
 [2]: https://www.usnews.com/best-graduate-schools/search?program=top-science-schools&specialty=mathematical-analysis
