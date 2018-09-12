@@ -119,10 +119,15 @@ The Graduate School requires applicants to upload an electronic copy of undergra
 Application Material|Notes
 --------------------|-----
 Online form and fee | $105
-Transcript | upload electronic copy, English, fall grade optional(may not be considered)
+Transcript | electronic copy(PDF file < 2.5MB), English, fall grade optional(may not be considered)
 Letters of recommendation | at least one from your school, provide e-mail when applying
 State of purpose | 1,000 word limit; word or PDF
 GRE & TOEFL | code 3451
+
+#### Transcript
+* The transcript must be in __PDF__ format and less than __2.5 MB__, preferably black and white or grayscale.
+* Some electronic transcripts are security enabled, which may prevent upload to the application. To bypass this security feature, print the transcript, scan it, and save it as a PDF prior to upload.
+* After uploading your transcript, select "View Document” to ensure that the transcript is legible. If the document is not legible, you may need to re-scan and re-upload the file.
 
 #### Statement of Purpose
 
