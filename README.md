@@ -8,10 +8,10 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Harvard](#harvard) | optional Fall semester grades | Dec 15 | [admiss@fas.harvard.edu](mailto:admiss@fas.harvard.edu) or (617) 495-5396 | [$105](https://gsas.harvard.edu/admissions/apply "Admission site") | 3451 | -
 [MIT](#mit) | - | Dec 15 | - | [$75](https://gradapply.mit.edu/math "Admission site") | 3514 | 0703(GRE), 72(TOEFL)
 [Stanford](#stanford) | mail 2 hard copies of your official transcripts | **Dec 11** | [mathgradadmissions@stanford.edu](mailto:mathgradadmissions@stanford.edu) | [$125](https://gradadmissions.stanford.edu/applying "Admission site") | 4704 | Unnecessary | 
-[UC Berkeley](#uc-berkeley) | Personal Statement(and SOP??) | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703(GRE) |
+[UC Berkeley](#uc-berkeley) | PS and SOP both required | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703(GRE) |
 [Chicago](#university-of-chicago) | - | Dec 15 | [memuir@uchicago.edu](mailto:memuir@uchicago.edu) or 773-702-1902 | [$90](https://apply-psd.uchicago.edu/apply/ "Admission site") | 1832 | 0703(GRE), 72(TOEFL) |
 [Columbia](#columbia-university) | send official transcript _after_ admission | TBA(_was Dec 14_) | [gsas-admissions@columbia.edu](mailto:gsas-admissions@columbia.edu) or (212) 854-6729 | [$110](https://apply.gsas.columbia.edu/apply/ "Admission site") | 2162 | None
-[U Penn](#u-penn)| send official transcript _after_ admission | Dec 31 | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
+[U Penn](#u-penn)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
 [Wisconsin](#wisconsin-madison)|Deadline for supporting material is Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
 
 
