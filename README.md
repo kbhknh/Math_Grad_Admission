@@ -231,7 +231,18 @@ TOEFL | min score 90
 GRE | General and Subject Math
 Letters of Recommendation | 3 letters
 
-#### [Personal Statement](https://grad.berkeley.edu/admissions/apply/personal-statement/ "link")
+#### Personal Statement
+
+_The Personal History Statement is required from all applicants. Please note that the Personal History Statement should not duplicate the Statement of Purpose._
+
+Please describe how your personal background and experiences influenced your decision to pursue a graduate degree. In this section, you may also include any relevant information on the following:
+* How you have overcome barriers to access higher education
+* How you have come to understand the barriers faced by others
+* Your academic service to advance equitable access to higher education for women, racial minorities and individuals from other groups that have been historically underrepresented in higher education
+* Your research focusing on under served populations or related issues of inequality
+* Your leadership among such groups
+  
+[Admission info site Help:](https://grad.berkeley.edu/admissions/apply/personal-statement/ "link")
 
 * What does this statement need to accomplish?
 	>The personal statement should give concrete evidence of your promise as a member of the academic community, giving the committee an image of you as a person.
@@ -255,7 +266,10 @@ Letters of Recommendation | 3 letters
 		* research that addresses health disparities, educational access and achievement, political engagement, economic justice, social mobility, civil and human rights, and other questions of interest to historically underrepresented groups;
 		* artistic expression and cultural production that reflects culturally diverse communities or voices not well represented in the arts and humanities.
 
-#### [Statement of Purpose](https://grad.berkeley.edu/admissions/apply/statement-purpose/ "link"): required??
+#### [Statement of Purpose](https://grad.berkeley.edu/admissions/apply/statement-purpose/ "link")
+
+_Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley would be a good intellectual fit for you._
+
 
 * Part 1: Introduce yourself, your interests and motivations
 	* Tell them what you’re interested in, and perhaps, what sparked your desire for graduate study. This should be short and to the point; don’t spend a great deal of time on autobiography.
