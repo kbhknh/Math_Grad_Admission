@@ -13,7 +13,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Columbia](#columbia-university) | send official transcript _after_ admission | TBA(_was Dec 14_) | [gsas-admissions@columbia.edu](mailto:gsas-admissions@columbia.edu) or (212) 854-6729 | [$110](https://apply.gsas.columbia.edu/apply/ "Admission site") | 2162 | None
 [UCLA](#ucla) | **PS&SOP**; official transcript _after_ admission | Dec 15 | [gradapps@math.ucla.edu](mailto:gradapps@math.ucla.edu) or (310) 825-4971 | [$125](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/ "Admission site") | 4837 | find out on your own on ETS site 
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
-[NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18 5pm Eastern(NY)time** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
+[NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
 [Yale](#yale-university) | send official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
 [U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
 [Wisconsin](#wisconsin-madison)|**TOEFL 109**; supp. mater. deadline Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
@@ -479,8 +479,10 @@ US News Rank: [Math][1] #9(3 tied), [Analysis][2] #5(2 tied), [Geometry][4] #8(2
 * [GSAS Applicaiton Resource Center](http://gsas.nyu.edu/admissions/gsas-application-resource-center.html)
 * [Special Requirements for Matematics](http://gsas.nyu.edu/admissions/gsas-application-resource-center/2017-programs--requirements--and-deadlines/mathematics.html)
 
+#### Deadline: December 18, 5pm Eastern Time
 
-### Application Requirements for Mathematics
+
+#### Application Requirements for Mathematics
 
 All applicants to the Graduate School of Arts and Science (GSAS) are required to submit a complete application for admission. A complete application includes the online application, academic transcripts, test scores (if required), letters of recommendation, a résumé or curriculum vitae, a Statement of Academic Purpose, and an application fee. Applicants also have the option of providing a short Personal History essay. Please refer to the Instructions section of the online application. In addition, the department specifically requires the following:
 
