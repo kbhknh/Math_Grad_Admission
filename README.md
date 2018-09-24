@@ -11,9 +11,9 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [UC Berkeley](#uc-berkeley) | PS and SOP both required | **Dec 17** | [gradadm@berkeley.edu](mailto:gradadm@berkeley.edu) or (510) 642-7405 | [$125](https://grad.berkeley.edu/admissions/apply/ "Admission site") | 4833 | 0703(GRE) |
 [Chicago](#university-of-chicago) | - | Dec 15 | [memuir@uchicago.edu](mailto:memuir@uchicago.edu) or 773-702-1902 | [$90](https://apply-psd.uchicago.edu/apply/ "Admission site") | 1832 | 0703(GRE), 72(TOEFL) |
 [Columbia](#columbia-university) | send official transcript _after_ admission | TBA(_was Dec 14_) | [gsas-admissions@columbia.edu](mailto:gsas-admissions@columbia.edu) or (212) 854-6729 | [$110](https://apply.gsas.columbia.edu/apply/ "Admission site") | 2162 | None
-[UCLA](#ucla) | - | Dec 15 | - | [$125](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/ "Admission site") | 4837 | - 
+[UCLA](#ucla) | **PS&SOP**; official transcript _after_ admission | Dec 15 | [gradapps@math.ucla.edu](mailto:gradapps@math.ucla.edu) or (310) 825-4971 | [$125](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/ "Admission site") | 4837 | find out on your own on ETS site 
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
-[U Penn](#u-penn)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
+[U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
 [Wisconsin](#wisconsin-madison)|**TOEFL 109**; supp. mater. deadline Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
 
 
@@ -348,7 +348,7 @@ Transcript | online upload, < 300 dpi, < 2MB, _send official one after admission
 Tests | no dept. code
 State of Academic Purpose | Approximately 1,000 words
 CV/resume | - 
-writing sample | if required(_unlikely..._)
+writing sample | Unnecessary
 Application fee | $110, accepts Visa, MasterCard, American Express, and Discover cards
 
 #### Statement of Academic Purpose
@@ -384,7 +384,9 @@ Transcripts, GRE scores (and TOEFL scores, if required) should be mailed to:
 
 Application Material|Notes
 --------------------|-----
-English Tests | TOEFL min:21/17/**24**/25
+[English Tests](https://grad.ucla.edu/admissions/english-requirements/) | TOEFL min:21/17/**24**/25
+[Transcripts]() | online upload, _send official one after admission_
+
 
 
 #### Admissions Requirements
@@ -467,6 +469,8 @@ Applicants whose first or native language is not English are required to take a 
 
 It is strongly recommended that students who do not achieve a high score on these tests or who have had little opportunity to communicate in English make arrangements for intensive work during the summer before registration. All international students are screened for English proficiency upon arrival at Caltech. Students may be required to take an English as a Second Language course if additional instruction is recommended. 
 
+
+## University of Pennsylvania
 
 
 
