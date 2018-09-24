@@ -13,7 +13,8 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Columbia](#columbia-university) | send official transcript _after_ admission | TBA(_was Dec 14_) | [gsas-admissions@columbia.edu](mailto:gsas-admissions@columbia.edu) or (212) 854-6729 | [$110](https://apply.gsas.columbia.edu/apply/ "Admission site") | 2162 | None
 [UCLA](#ucla) | **PS&SOP**; official transcript _after_ admission | Dec 15 | [gradapps@math.ucla.edu](mailto:gradapps@math.ucla.edu) or (310) 825-4971 | [$125](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/ "Admission site") | 4837 | find out on your own on ETS site 
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
-[Yale](#yale-university) | official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
+[NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18 5pm Eastern(NY)time** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
+[Yale](#yale-university) | send official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
 [U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
 [Wisconsin](#wisconsin-madison)|**TOEFL 109**; supp. mater. deadline Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
 
@@ -472,6 +473,51 @@ It is strongly recommended that students who do not achieve a high score on thes
 
 
 
+## New York University
+US News Rank: [Math][1] #9(3 tied), [Analysis][2] #5(2 tied), [Geometry][4] #8(2 tied)
+
+* [GSAS Applicaiton Resource Center](http://gsas.nyu.edu/admissions/gsas-application-resource-center.html)
+* [Special Requirements for Matematics](http://gsas.nyu.edu/admissions/gsas-application-resource-center/2017-programs--requirements--and-deadlines/mathematics.html)
+
+
+### Application Requirements for Mathematics
+
+All applicants to the Graduate School of Arts and Science (GSAS) are required to submit a complete application for admission. A complete application includes the online application, academic transcripts, test scores (if required), letters of recommendation, a résumé or curriculum vitae, a Statement of Academic Purpose, and an application fee. Applicants also have the option of providing a short Personal History essay. Please refer to the Instructions section of the online application. In addition, the department specifically requires the following:
+
+* GRE for Ph.D. Applicants to Mathematics: GRE general test required. GRE subject test required; preferably in mathematics, but accepted in other relevant sciences.
+* GRE for Ph.D. Applicants to Atmosphere Ocean Science and Mathematics: GRE general test required. GRE subject test in Mathematics required; applicants may substitute the GRE subject test in Physics.
+* GRE for Master's Applicants: GRE general test required. GRE subject test in Mathematics or other quantitative field strongly encouraged.
+* TOEFL or IELTS: Either the TOEFL or the IELTS is required of all applicants who are not native English speakers or who do not have a bachelor's or master's degree from an institution where the language of instruction is English. See [test score FAQ](http://gsas.nyu.edu/admissions/gsas-application-resource-center/faqs/testing-requirements.html).
+* Statement of Academic Purpose: In a concisely written statement, please describe your past and present work as it relates to your intended field of study, your educational objectives, and your career goals. In addition, please include your intellectual and professional reasons for choosing your field of study and why your studies/research can best be done at the Graduate School of Arts and Science at NYU. The statement should not exceed two double-spaced pages.
+* Writing Sample: Not required.
+* Optional Video Submission: As part of the application to the Ph.D. program in Mathematics or Atmosphere Ocean Science, the department encourages you to submit a short video statement. This is an optional part of your application and is not required. Please read the detailed instructions at [http://gsas.nyu.edu/object/grad.app.page1-video](http://gsas.nyu.edu/object/grad.app.page1-video).
+
+#### Statement of Academic Purpose
+
+In a concisely written statement, please describe your past and present work as it relates to your intended field of study, your educational objectives, and your career goals. In addition, please include your intellectual and professional reasons for choosing your field of study and why your studies/research can best be done at the Graduate School of Arts and Science at NYU. The statement should not exceed two double-spaced pages.
+
+#### Personal History Statement(Optional)
+
+The purpose of this optional essay is to get to know you as an individual and as a potential graduate student, and to understand how your background will add to the diversity of our school. Please describe how your personal background has motivated you to pursue a graduate degree. You may discuss educational, familial, cultural, socioeconomic, or personal experiences or challenges; gender identity; community services, outreach services, first-generation college status or other matters relevant to your decision to pursue graduate education. Please note that the Personal History Statement is not meant to be a general autobiography.
+
+The statement is optional and should not exceed two double-spaced pages. It should not duplicate the Statement of Academic Purpose.
+
+#### Transcripts
+
+Answers to many questions about our policies and procedures for academic transcripts can be found in the [Frequently Asked Questions: Academic Transcripts.](http://gsas.nyu.edu/admissions/gsas-application-resource-center/faqs/academic-transcripts.html)
+
+When you apply online, one (1) official academic transcript, mark sheet, or final grades sheet (and English translation, if required) from each institution you attended should be uploaded on one of the “Transcript Upload” pages as part of your online application. If uploaded, you should NOT send paper copies of your transcripts to Graduate Enrollment Services at this time. If you are offered admission, you will be requested to provide an official copy. The baccalaureate or equivalent transcript should clearly indicate conferral of your undergraduate degree. If you are currently completing your baccalaureate, you should upload a transcript showing your academic record through your most current year of study.
+
+#### Letters of Recommendation
+
+[LETTERS OF RECOMMENDATION: FREQUENTLY ASKED QUESTIONS](http://gsas.nyu.edu/admissions/gsas-application-resource-center/faqs/letters-of-recommendation.html)
+
+Three letters, online.
+
+
+
+
+
 ## Yale University
 US News Rank: [Math][1] #9(3 tied), [Analysis][2] #15, [Algebra][3] #10, [Geometry][4] #14
 
@@ -514,6 +560,7 @@ The Graduate School does require incoming doctoral students who received a score
 
 * What is it about Yale that has led you to apply?(200 characters, not words)
 * Diversity Statement (optional) : The Yale Graduate School is strongly committed to attracting qualified students with diverse backgrounds and experiences to its community of scholars. Applicants are encouraged to describe how they would contribute to diversity within the graduate school community. (250 - 300 words)
+
 
 
 ## University of Pennsylvania
