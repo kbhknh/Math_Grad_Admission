@@ -13,11 +13,11 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Columbia](#columbia-university) | send official transcript _after_ admission | TBA(_was Dec 14_) | [gsas-admissions@columbia.edu](mailto:gsas-admissions@columbia.edu) or (212) 854-6729 | [$110](https://apply.gsas.columbia.edu/apply/ "Admission site") | 2162 | None
 [UCLA](#ucla) | **PS&SOP**; official transcript _after_ admission | Dec 15 | [gradapps@math.ucla.edu](mailto:gradapps@math.ucla.edu) or (310) 825-4971 | [$125](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/ "Admission site") | 4837 | **find out on your own on ETS site** 
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
-[NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
+[NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | **close to your field of study(TOEFL)**
 [Yale](#yale-university) | send official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
-[Michigan](#university-of-michigan) | **PS&SOP**; official transcript **before** admission | TBA | [rackadmis@umich.edu](mailto:rackadmis@umich.edu) or (734) 764-8129 | [$90](https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | -
+[Michigan](#university-of-michigan) | **PS&SOP**; official transcript **before** admission | **Dec 15** | [rackadmis@umich.edu](mailto:rackadmis@umich.edu) or (734) 764-8129 | [$90](https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | -
 [Cornell](#cornell-university) | send official transcript _after_ admission | **Jan 4** | [gradadmissions@cornell.edu](mailto:gradadmissions@cornell.edu) or (607) 255-5820 | [$105](https://www.applyweb.com/cgi-bin/app?s=cornellg "Admission site") | 2098 | -
-[Brown](#brown-university) |  |  |  |  | a | a 
+[Brown](#brown-university) | send official transcript _after_ admission | **Jan 1** | [graduate_admissions@brown.edu](mailto:graduate_admissions@brown.edu) or (401) 863-2600 | [$75](https://www.applyweb.com/browng/index.ftl "Admission site") | 3094 | **find out on your own on ETS site** 
 [Texas-Austin](#university-of-texas) |  |  | a |  |  | 
 [Duke](#duke-university) |  | a |  |  |  | 
 [U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
@@ -575,7 +575,19 @@ The Graduate School does require incoming doctoral students who received a score
 US News Rank: [Math][1] #12, [Analysis][2] #14, [Algebra][3] 7, [Geometry][4] #11
 
 * [Applying to UM-Ann Arbor](https://rackham.umich.edu/admissions/applying/)
-* [Mathematics Graduate Programs](https://lsa.umich.edu/content/michigan-lsa/math/en/graduates.html)
+* [Mathematics Graduate Programs](https://lsa.umich.edu/math/graduates/ph-d-programs/applying.html)
+
+
+### Mathematics Ph.D. & Mathematics Master's Admission Requirements
+The undergraduate major need not be mathematics, but a student should have mastered material roughly equivalent to the undergraduate mathematics major at The University of Michigan including:
+
+* three semesters of calculus
+* one or two semesters of differential equations
+* one semester courses in modern algebra, linear algebra, geometry or topology
+* advanced calculus of one and several variables
+
+In addition, a student should have completed at least three additional mathematics courses and at least two courses in related fields such as statistics, computer science, or the physical sciences. Students with strong records in less comprehensive programs will be considered for admission but if admitted should expect to spend the first one or two semesters in graduate school completing their undergraduate preparation in mathematics. Based on historical data, we expect that successful applicants to the Ph.D. program will have an overall GPA of at least 3.3 on a 4.0 scale.
+
 
 
 ### PS, SOP, Resume/CV
@@ -628,6 +640,8 @@ Under the Family Educational Rights and Privacy Act of 1974, if you are admitted
 	* If the status is “Completed” or “In Progress” you cannot change your recommender, contact the graduate program for an alternative for submitting a recommendation.
 
 #### Tests
+
+Note that for Pure Mathematics, AIM Program and the Actuarial Program, the GRE aptitude (general) and GRE advanced (subject) mathematics tests are required. While there are no minimum acceptable GRE scores, a high standard is expected. 
 
 * Register early to maximize the chances of scheduling preferred test dates and times.
 * Use your legal name as stated on your passport or birth certificate when registering for your exams and when completing the online application, to prevent a delay in matching your test scores to your application.
@@ -698,6 +712,52 @@ The on-line application requires you to scan and upload an unofficial copy of yo
 
 ## Brown University
 US News Rank: [Math][1] #14(2 tied)
+
+* [General Application Information](https://www.brown.edu/academics/gradschool/apply)
+* [Department of Mathematics](https://www.brown.edu/academics/math/graduate)
+
+
+### General Information(Mathematics)
+Applicants should have a good background in undergraduate mathematics, regardless of their majors. They should submit GRE scores (General Test and Subject Test in mathematics). International students whose native language is not English must submit TOEFL scores. However, if the student received their degree in the United States, they do not have to take the TOEFL.  Students who have a background in advanced mathematics will find our program quite flexible. Visits to Brown and direct communication with the graduate representative are strongly encouraged. The deadline for our receipt of application material and letters of recommendation is January 1, 2018. Admission and financial aid awards are usually announced by the middle of March.
+
+Use the online application to apply. The online application offers tools for collecting and submitting some, but not all, of the documents and information required for application. Departments may require additional information, so please check their listings. In general, though, applicants are responsible for submitting the following: 
+
+#### Personal Statement 
+All applicants are required to submit a personal statement regarding their interests and/or intended areas of study. Some programs ask applicants to address specific questions in their personal statements. Please review the listings for the Ph.D. or master’s program in which you are interested for details. 
+
+#### Transcripts 
+We strongly encourage applicants to submit a scanned image of the transcript at the time of application, which can speed processing; however, a final, official transcript will be required of all admitted students who matriculate. Applicants who have attended international institutions must submit transcripts or certified attestations of study, with certified English translations. Once translated, the original transcript and the certified translations are to be sent to the Graduate School admission office. College seniors should submit current transcripts, followed by a final official transcript showing the award of the baccalaureate degree prior to matriculation, as is required and mentioned above. 
+
+#### Letters of Recommendation 
+The Graduate School requires **three** letters of recommendation by persons well qualified to speak from first-hand knowledge about the applicant's potential for graduate study. All letters should comment on an applicant’s ability to do research and perform in the program’s required coursework. At least two of these letters should be from faculty at the institution of current study or, if the applicant is not in school at the time of application, at the institution most recently attended. Letters of recommendation for applicants to master’s programs may be from academic or non-academic sources; please consult individual program listings for details. Letters of recommendation must be submitted online. If you are using Interfolio please refer to their website for instructions on submitting your recommendations electronically.
+
+#### GRE 
+Applicants to doctoral programs must have their results from the Graduate Record Examination (GRE) General Test sent to the Graduate School or, if applying to one of the programs in the School of Public Health, to a separate Brown University code. Please check program requirements regarding subject tests or supplementary materials. Please refer to our [GRE page](https://www.brown.edu/academics/gradschool/application-information/gre-information) and individual listings for the Ph.D. or master’s program in which you are interested for details. 
+
+#### TOEFL/IELTS 
+All international applicants whose native language is not English must ensure that the Graduate School receives their official score from the Test of English as a Foreign Language (TOEFL) or International English Language Testing System (IELTS).
+
+Regarding TOEFL, the recommended minimum score for admission consideration is 577 on the paper-based test and **90** on the Internet-based test. For IELTS, the recommended minimum overall band score is 7. Some programs may have more rigorous language proficiency standards; applicants with questions should contact programs directly. These exams should be taken early enough to allow the scores to reach the Graduate School by your program's deadline. Performance on the tests is one of many factors considered in making admission decisions. 
+
+Official TOEFL scores should be sent to Brown University Graduate School (reporting code **3094**). Those applying to School of Public Health programs should have the scores sent to both the Graduate School and SOPHAS (reporting code  5688).
+
+Students who have been awarded teaching assistantships and whose native language is not English will be tested upon their arrival for English proficiency before they begin teaching. If a student's English language skills do not meet the minimum standards of certification, provisional approval of the appointment may be made on the condition that the student enroll in an English-language training course during the first semester of the appointment and be assigned to other duties that will prepare them for teaching. 
+
+NOTE: Students who have not been certified at the appropriate level for the classroom or laboratory will not be supported as teaching assistants past the first year.
+
+#### Application Fee and Waivers
+A non-refundable fee of $75 is charged for processing each application received by the Graduate School. This fee must be paid when the application is submitted. An application will not be processed unless the fee is paid. Applicants who want to be evaluated by more than one graduate program must submit separate applications to each program for which they would like to be considered. The Graduate School is not responsible for errors made by applicants during the application process. There are no application-fee refunds. Application-fee waivers are available under certain circumstances. Applicants to Brown's graduate programs who are U.S. citizens or permanent residents and can demonstrate financial need may apply for an application-fee waiver. Please note: application-fee waivers are not available for international applicants. Please see this page for detailed information about application-fee waivers.
+
+#### Paper Credentials and Other Documentation
+All materials related to an application that are not submitted electronically as part of the online application should be mailed to the Graduate School admission office: 47 George St., Box 1867, Brown University, Providence, R.I. 02912. Do not send any application materials directly to the program you are applying to as this will only slow the progress of your application. Material submitted in support of the application, including transcripts and writing samples, will not be returned to the applicant. 
+
+#### Criteria for Admission
+Admission to the Graduate School is determined at the program level with oversight by the Graduate School. Each program, in consultation with the dean of the Graduate School, sets its own admission criteria. The individual academic programs evaluate applications for admission. Admission decisions are made after a full review of the materials in the application. Programs consider previous records, test scores, and recommendations and look for clear evidence of the ability to do advanced work of the highest quality. The admission decisions are final. There is no appeals process.
+
+#### Notification
+Applicants should expect to be notified within four to eight weeks of the application deadline for their programs (February or March for a January 1 deadline). Whether or not applications that are submitted after a program's stated deadline will be reviewed is at the discretion of each program. While individual academic programs evaluate applicants for admission, offers of admission are only binding when made in writing by the Dean of the Graduate School. Admission may, in some cases, be deferred; aid offers cannot be deferred. 
+
+
 
 ## University of Texas
 US News Rank: [Math][1] #14(2 tied), [Analysis][2] #7
