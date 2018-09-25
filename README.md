@@ -15,7 +15,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
 [NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
 [Yale](#yale-university) | send official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
-[Michigan](#university-of-michigan) | a |  |  |  | 1839 | 
+[Michigan](#university-of-michigan) | send official transcript _before_ admission |  |  | (https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | 
 [Cornell](#cornell-university) |  | a |  |  |  | 
 [Brown](#brown-university) |  |  |  |  | a | a 
 [Texas-Austin](#university-of-texas) |  |  | a |  |  | 
@@ -575,6 +575,14 @@ US News Rank: [Math][1] #12, [Analysis][2] #14, [Algebra][3] 7, [Geometry][4] #1
 
 * [Applying to UM-Ann Arbor](https://rackham.umich.edu/admissions/applying/)
 * [Mathematics Graduate Programs](https://lsa.umich.edu/content/michigan-lsa/math/en/graduates.html)
+
+
+#### Transcript
+
+* **You need two official transcripts.** One for you to upload and one submitted directly to Rackham no matter how many programs you apply to.
+* Submit only official transcripts. These bear the issuing institution’s seal and the official signature of the Registrar (or Recorder of Records). For those enrolled in degree study at the time of application, submit only the most recent in-progress transcript for that degree.
+
+
 
 #### Tests
 
