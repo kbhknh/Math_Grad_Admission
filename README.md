@@ -15,8 +15,8 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
 [NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
 [Yale](#yale-university) | send official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
-[Michigan](#university-of-michigan) | **PS&SOP**; official transcript **before** admission | TBA | [rackadmis@umich.edu](mailto:rackadmis@umich.edu) or (734) 764-8129 | [$90](https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | 
-[Cornell](#cornell-university) |  | a |  |  |  | 
+[Michigan](#university-of-michigan) | **PS&SOP**; official transcript **before** admission | TBA | [rackadmis@umich.edu](mailto:rackadmis@umich.edu) or (734) 764-8129 | [$90](https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | -
+[Cornell](#cornell-university) | send official transcript _after_ admission | **Jan 4** | [gradadmissions@cornell.edu](mailto:gradadmissions@cornell.edu) or (607) 255-5820 | [$105](https://www.applyweb.com/cgi-bin/app?s=cornellg "Admission site") | 2098 | -
 [Brown](#brown-university) |  |  |  |  | a | a 
 [Texas-Austin](#university-of-texas) |  |  | a |  |  | 
 [Duke](#duke-university) |  | a |  |  |  | 
@@ -635,6 +635,63 @@ Under the Family Educational Rights and Privacy Act of 1974, if you are admitted
 
 ## Cornell University
 US News Rank: [Math][1] #13
+
+* [Graduate School Admissions](https://gradschool.cornell.edu/admissions/)
+* [Admissions Detail - Mathematics](https://math.cornell.edu/graduate-admissions-application)
+
+### Preparation
+
+* For all applicants:
+** Take required tests
+** Request recommendations
+** Write a statement of purpose
+** Prepare transcripts
+* For international applicants:
+** International transcripts
+** International degree equivalencies
+** English language proficiency
+
+#### Statement of Purpose
+
+Each applicant must submit a statement of purpose. The statement of purpose is your opportunity to help reviewers better understand your academic objectives and determine if you are a good match for the field to which you are applying.
+
+The statement should be one or two pages. Include your full name and the proposed field of study at the top of each page. Please use a standard font and font size for ease of reading.
+
+The statement of purpose should include your reasons for undertaking graduate work and an explanation of your academic interests, including their relation to your undergraduate study and professional goals.
+
+Some fields ask that you address particular questions in your statement of purpose. Please check with your field for field requirements.
+
+#### Recommendations
+
+References are a required part of the Graduate School application. Students must submit the names and contact information for their references directly on the application. These faculty receive an email with a link to an online form to complete the reference. Referees can upload or type directly into the text box provided.
+
+Most fields require two or three letters of recommendation. Please check field admissions requirements for your proposed field.
+
+* Ph.D., M.A., and M.S. applicants: Letters must be submitted by faculty members from your college or institution who are acquainted with your work. If that work occurred some time ago, check with the field to see whether recommendations from those familiar with your professional performance might be acceptable.
+* Applicants for professional masters degrees: Letters may be submitted by faculty members or those familiar with your professional performance.  Contact your field for specific guidance.
+
+#### Transcripts
+
+The on-line application requires you to scan and upload an unofficial copy of your official academic records:
+
+* All transcripts, diplomas or academic records must be official documents issued by the college or university and provided in the original language. 
+** If not issued by the college or university as original documents, they should be notarized, full-sized photocopies.
+** A certified English translation must accompany the transcript or diploma if the original language is not English.
+* Transcripts should include grades received in each subject each year, the name of the degree program in which the applicant is enrolled, and the dates of attendance.
+* Scan or save each transcript (and the English translation, if applicable) as a PDF, TIFF, JPEG or GIF file. Combine multiple pages from the same transcript into one file; the file size should not exceed 10MB. 
+* Ensure the scanned image is clear and easy to read.
+* Admitted students are required to submit an official paper or electronic (e-transcript) transcript directly to the Graduate School prior to enrolling, as well as a certified copy of their diploma or degree certificate. This requirement will appear on the “response to offer of admission” form, the New Student To Do List, and in a series of communications you will receive from the Graduate School after accepting your offer of admission.
+
+#### GRE / English language proficiency
+
+* GRE
+** Deadline: The Graduate School must receive all scores prior to the field’s application deadline. (January 4 - Mathematics, January 2 - General)
+** Institution Code: All official test scores should be reported directly to Cornell University’s institution code **2098**. Department codes are not used for matching scores to applications.
+
+* TOEFL
+** Minimum requirements : Reading 20 / Listening 15 / Speaking 22 / Writing 20
+** If your TOEFL or IELTS Academic scores do not meet the requirement, we cannot issue a visa document, and you will not be able to enter the country.
+
 
 ## Brown University
 US News Rank: [Math][1] #14(2 tied)
