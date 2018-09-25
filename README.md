@@ -759,7 +759,7 @@ Applicants should expect to be notified within four to eight weeks of the applic
 
 
 
-## University of Texas
+## University of Texas at Austin
 US News Rank: [Math][1] #14(2 tied), [Analysis][2] #7
 
 * [General Admission Information](https://gradschool.utexas.edu/how-to-apply)
