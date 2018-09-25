@@ -559,6 +559,7 @@ Official score reports should also be sent directly from the testing agency to t
 * GRE/GRE Subject/TOEFL scores: Yale University, Institution Code: 3987
 * GMAT: Institution Code: 3JT-30-78
 * IELTS: Yale University Graduate School of Arts & Sciences, or Office of Graduate Admissions
+
 Scores released to other schools of Yale University cannot be transferred or used. Applicants to programs in Forestry and Environmental Studies, Public Health, Religious Studies or Nursing: Please note, your scores must be sent to the Yale Graduate School of Arts and Sciences using the institution code noted above. 
 
 The Graduate School does require incoming doctoral students who received a score of 25 or below on the TOEFL Speaking section or a 7.5 or below on IELTS Speaking section to participate in a Summer English Language program at Yale in August prior to matriculation. These students are required to demonstrate English proficiency before they are permitted to teach.
@@ -579,12 +580,14 @@ US News Rank: [Math][1] #12, [Analysis][2] #14, [Algebra][3] 7, [Geometry][4] #1
 
 ### PS, SOP, Resume/CV
 
-* Include at the top of each document:
-** The type of document (Academic Statement of Purpose, Personal Statement, or Curriculum Vitae orResume)
-** Your name
-** The name of the graduate program
-** Your 8 digit U-M ID (if known)
-* Make sure margins are at least one-inch so nothing is cropped when you upload the documents to the application.
+Include at the top of each document:
+
+* The type of document (Academic Statement of Purpose, Personal Statement, or Curriculum Vitae orResume)
+* Your name
+* The name of the graduate program
+* Your 8 digit U-M ID (if known)
+
+Make sure margins are at least one-inch so nothing is cropped when you upload the documents to the application.
 
 #### Academic Statement of Purpose
 
@@ -611,18 +614,18 @@ A curriculum vitae (CV) or resume describes your education, work experience, res
 
 ### Letters of Recommendation
 
-* You will need each recommender’s name, mailing address, email address, phone number, institution or employer, and title.
+1. You will need each recommender’s name, mailing address, email address, phone number, institution or employer, and title.
 Under the Family Educational Rights and Privacy Act of 1974, if you are admitted and decide to enroll, you have access to your education record, including letters of recommendation at U-M.
-** If you select “Yes” to waive your right, you will not have access to the letter of recommendation.
-** If you select “No” to waive your right, then you will have access to the letter of recommendation.
-* Students should note that some recommenders may choose not to prepare a recommendation if these rights have not been waived. You will not be able to change the waiver status once your recommender has logged into their online recommendation account.
-* You may register your recommenders in ApplyWeb before completing your application. In ApplyWeb select “Submit Recommendation Request” to confirm. An invitation email is then sent to your recommender.
-* Registering your recommenders must be completed before you submit your application.
-* After Registering Your Recommenders:
-** Recommendations can be uploaded to your application before or after you have submitted your application.
-** Check the status of your letters of recommendation, change a recommender, or resend the notification email to your recommender using the ApplyWeb Activity Page.
-** You can only change your recommender if status displays as “Not Started.” You are able to update the name of the recommender and the email address. The other contact information cannot be edited.
-** If the status is “Completed” or “In Progress” you cannot change your recommender, contact the graduate program for an alternative for submitting a recommendation.
+	* If you select “Yes” to waive your right, you will not have access to the letter of recommendation.
+	* If you select “No” to waive your right, then you will have access to the letter of recommendation.
+2. Students should note that some recommenders may choose not to prepare a recommendation if these rights have not been waived. You will not be able to change the waiver status once your recommender has logged into their online recommendation account.
+3. You may register your recommenders in ApplyWeb before completing your application. In ApplyWeb select “Submit Recommendation Request” to confirm. An invitation email is then sent to your recommender.
+4. Registering your recommenders must be completed before you submit your application.
+5. After Registering Your Recommenders:
+	* Recommendations can be uploaded to your application before or after you have submitted your application.
+	* Check the status of your letters of recommendation, change a recommender, or resend the notification email to your recommender using the ApplyWeb Activity Page.
+	* You can only change your recommender if status displays as “Not Started.” You are able to update the name of the recommender and the email address. The other contact information cannot be edited.
+	* If the status is “Completed” or “In Progress” you cannot change your recommender, contact the graduate program for an alternative for submitting a recommendation.
 
 #### Tests
 
@@ -641,15 +644,15 @@ US News Rank: [Math][1] #13
 
 ### Preparation
 
-* For all applicants:
-** Take required tests
-** Request recommendations
-** Write a statement of purpose
-** Prepare transcripts
-* For international applicants:
-** International transcripts
-** International degree equivalencies
-** English language proficiency
+For all applicants:
+* Take required tests
+* Request recommendations
+* Write a statement of purpose
+* Prepare transcripts
+For international applicants:
+* International transcripts
+* International degree equivalencies
+* English language proficiency
 
 #### Statement of Purpose
 
@@ -674,23 +677,23 @@ Most fields require two or three letters of recommendation. Please check field a
 
 The on-line application requires you to scan and upload an unofficial copy of your official academic records:
 
-* All transcripts, diplomas or academic records must be official documents issued by the college or university and provided in the original language. 
-** If not issued by the college or university as original documents, they should be notarized, full-sized photocopies.
-** A certified English translation must accompany the transcript or diploma if the original language is not English.
-* Transcripts should include grades received in each subject each year, the name of the degree program in which the applicant is enrolled, and the dates of attendance.
-* Scan or save each transcript (and the English translation, if applicable) as a PDF, TIFF, JPEG or GIF file. Combine multiple pages from the same transcript into one file; the file size should not exceed 10MB. 
-* Ensure the scanned image is clear and easy to read.
-* Admitted students are required to submit an official paper or electronic (e-transcript) transcript directly to the Graduate School prior to enrolling, as well as a certified copy of their diploma or degree certificate. This requirement will appear on the “response to offer of admission” form, the New Student To Do List, and in a series of communications you will receive from the Graduate School after accepting your offer of admission.
+1. All transcripts, diplomas or academic records must be official documents issued by the college or university and provided in the original language. 
+	* If not issued by the college or university as original documents, they should be notarized, full-sized photocopies.
+	* A certified English translation must accompany the transcript or diploma if the original language is not English.
+2. Transcripts should include grades received in each subject each year, the name of the degree program in which the applicant is enrolled, and the dates of attendance.
+3. Scan or save each transcript (and the English translation, if applicable) as a PDF, TIFF, JPEG or GIF file. Combine multiple pages from the same transcript into one file; the file size should not exceed 10MB. 
+4. Ensure the scanned image is clear and easy to read.
+5. Admitted students are required to submit an official paper or electronic (e-transcript) transcript directly to the Graduate School prior to enrolling, as well as a certified copy of their diploma or degree certificate. This requirement will appear on the “response to offer of admission” form, the New Student To Do List, and in a series of communications you will receive from the Graduate School after accepting your offer of admission.
 
 #### GRE / English language proficiency
 
-* GRE
-** Deadline: The Graduate School must receive all scores prior to the field’s application deadline. (January 4 - Mathematics, January 2 - General)
-** Institution Code: All official test scores should be reported directly to Cornell University’s institution code **2098**. Department codes are not used for matching scores to applications.
+1. GRE
+* _Deadline: The Graduate School must receive all scores prior to the field’s application deadline. (January 4 - Mathematics, January 2 - General)
+* _Institution Code: All official test scores should be reported directly to Cornell University’s institution code **2098**. Department codes are not used for matching scores to applications.
 
-* TOEFL
-** Minimum requirements : Reading 20 / Listening 15 / Speaking 22 / Writing 20
-** If your TOEFL or IELTS Academic scores do not meet the requirement, we cannot issue a visa document, and you will not be able to enter the country.
+2. TOEFL
+* _Minimum requirements : Reading 20 / Listening 15 / Speaking 22 / Writing 20
+* _If your TOEFL or IELTS Academic scores do not meet the requirement, we cannot issue a visa document, and you will not be able to enter the country.
 
 
 ## Brown University
