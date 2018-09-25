@@ -18,8 +18,8 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Umich](#university-of-michigan) | **PS&SOP**; official transcript **before** admission | Dec 15 | [rackadmis@umich.edu](mailto:rackadmis@umich.edu) or (734) 764-8129 | [$90](https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | -
 [Cornell](#cornell-university) | send official transcript _after_ admission | **Jan 4** | [gradadmissions@cornell.edu](mailto:gradadmissions@cornell.edu) or (607) 255-5820 | [$105](https://www.applyweb.com/cgi-bin/app?s=cornellg "Admission site") | 2098 | -
 [Brown](#brown-university) | send official transcript _after_ admission | **Jan 1** | [graduate_admissions@brown.edu](mailto:graduate_admissions@brown.edu) or (401) 863-2600 | [$75](https://www.applyweb.com/browng/index.ftl "Admission site") | 3094 | **find out on your own on ETS site** 
-[Texas-Austin](#university-of-texas) |  |  | a |  |  | 
-[Duke](#duke-university) |  | a |  |  |  | 
+[Texas-Austin](#university-of-texas-at-austin) | send official transcript _after_ admission | Dec 15 | [gradcoordinator@math.utexas.edu](mailto:gradcoordinator@math.utexas.edu) | [$90](https://www.applytexas.org/adappc/gen/c_start.WBX "Admission site") | 6882 | Unnecessary
+[Duke](#duke-university) | send official transcript _after_ admission | **Dec 19** | [grad-admissions@duke.edu](mailto:grad-admissions@duke.edu) | [$85](https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=dukegrad "Admission site") | 5156 | Unnecessary
 [U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
 [Wisconsin](#wisconsin-madison)|**TOEFL 109**; supp. mater. deadline Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
 
@@ -759,11 +759,132 @@ Applicants should expect to be notified within four to eight weeks of the applic
 
 
 
-## University of Texas
+## University of Texas at Austin
 US News Rank: [Math][1] #14(2 tied), [Analysis][2] #7
+
+* [General Admission Information](https://gradschool.utexas.edu/how-to-apply)
+* [Mathematics Admission](https://www.ma.utexas.edu/academics/graduate/admissions)
+
+### Applications(Mathematics)
+
+The Math Department accepts students interested in pursuing a PhD in pure or applied mathematics, and students interested in a Master's degree in actuarial science.  All students admitted to the PhD program are offered financial support.
+
+The department is committed to preparing leaders in fields that are becoming increasingly diverse. We believe that our students benefit from participation in a culture of diversity. The department encourages applications from individuals within populations traditionally underrepresented math. Our goal is to provide all our students with an inclusive and supportive environment in which they can reach their greatest intellectual potential.
+
+Admission to the Math Department is highly competitive. In recent years, we have seen almost 400 students per year apply to be among an incoming class of usually no more than twenty students.
+
+The Department's Graduate Admissions Committee will consider the following factors in arriving at its decision concerning the admission of an applicant:
+
+* Undergraduate academic record, especially performance in upper-division, conceptually oriented mathematics classes;
+* Performance in prior graduate mathematics courses (if applicable);
+* Letters of recommendation;
+* The contents of the personal statement, especially as they relate to the intellectual preparedness of the applicant to undertake graduate studies in mathematics or to special circumstances in an applicant's background that might indicate the potential for success in a graduate mathematics program;
+* Undergraduate research experience;
+* Performance on the GRE (general and subject); and
+* Performance on the TOEFL (if applicable).
+
+To be competitive, a candidate usually needs a program of coursework like the following (this is only a guideline; and it is possible, particularly for students in applied mathematics, to be competitive with more varied backgrounds):
+
+* A standard set of introductory undergraduate courses would include the calculus sequence, linear algebra, and differential equations.
+* A solid set of advanced undergraduate courses would include two semesters of proof-based analysis, two semesters of proof-based abstract algebra, and at least one of topology.
+* A variety of other classes, like complex analysis or probability or differential geometry help with breadth.
+The best predictor of success in any graduate program is success in one or more introductory graduate courses.
+
+If you are accepted for admission to our graduate program, you will automatically be considered for financial assistance; so no separate application for financial assistance is required.
+
+In special circumstances, we also consider students applying for admission without financial support from us. If you do not need financial assistance because you expect  external funding from another source, and would like to be considered for admission without support, you should indicate this clearly in your statement  of purpose, including the source and amount of funding you expect to receive. Applicants claiming external support should not in general expect to be offered financial assistance by the math department, and may be asked to provide proof of external funding before admissions decisions are made.
+
+### HOW TO APPLY
+
+Applicants must submit the official online application, official transcripts, test scores, and processing fees to the Graduate and International Admissions Center. Please visit the GIAC website for specific and detailed instructions regarding the application process. After reviewing GIAC and Math Department instructions on how to apply, please complete the ApplyTexas online application. 
+
+Regarding transcripts sent to GIAC:
+
+You will upload a scan of your official transcript(s) after you have submitted your application for admission and paid the application fee. After you have submitted your application you will receive an email that contains a link to the Status Check web page where you will be able to upload your transcript.   
+
+Please do not mail official transcripts to GIAC or to the Math Department. When a student is admitted to our program, **GIAC will ask that official paper transcripts be mailed or delivered in person**. 
+
+The following items are also required by the Math Department :
+
+* **General GRE and Subject GRE** - The Mathematics Subject GRE score must be submitted along with the General test score.  Official scores are reported directly to UT Austin (GIAC) when you select our University code.  Applications received without the Mathematics Subject GRE score will be accepted, but we cannot guarantee that they will receive equal consideration. GRE Subject scores are also expected for applicants to the Master's program in Actuarial Science. If your official scores are only available after the December 15 deadline, we recommend you obtain your scores on the ETS website and self report these in a separate document. Please title this document “General GRE and/or Subject GRE Scores”, and upload it as a “miscellaneous document” via your Status Check page. For more information on test scores, please see this page: [https://gradschool.utexas.edu/how-to-apply](https://gradschool.utexas.edu/how-to-apply)
+* **Statement of purpose** - 1-2 pages describing your research area of interest, listing any publications, and descriptions of previous or current research work. If you maintain a personal website or mathematics blog and you would like to share this with us, please include the URL in this document. This can be submitted via your Status Check page after submission of the ApplyTexas form.
+* **Three letters of recommendation** - must be submitted via the UT Austin recommendation system. 
+* **Resume** - include any awards, honors or other important items you wish to highlight. This can be submitted via your Status Check page after submission of the ApplyTexas form.
+* **Other Documents** - Although not required, applicants are strongly encouraged to submit samples of your publications, thesis, research notes, etc. to support your application Please submit these items as a “miscellaneous document” via your Status Check page.
+* **TOEFL** - (International students only) Please submit per the instructions above for the GRE. IELTS scores may not be substituted for TOEFL scores. If you have not yet received your official test results, self-report your test score(s) in a separate document and title this as “TOEFL Scores”, and upload as a “miscellaneous document” via your Status Check page. 
+
+After you have submitted the ApplyTexas application, it will take approximately one to two business days to load into UT's system.   When GIAC receives your application you will receive an email with your UT EID and password.  Your UT EID is an identifier that UT Austin uses for applicants and students.  Do not create an additional UT EID.  You must use the one assigned to you after you submit your application.  If you are a previous or current student of UT Austin, you should use your existing UT EID.
+
+
 
 ## Duke University
 US News Rank: [Math][1] #16, [Analysis][2] #15, [Algebra][3] #10, [Geometry][4] #14
+
+* [General Admission Information](https://gradschool.duke.edu/admissions)
+* [How to apply - Mathematics](https://math.duke.edu/graduate/apply)
+
+### Application Instructions(Mathematics)
+
+To be considered for Fall admission you MUST submit your application by **December 19**. GRE and TOEFL test results, and letters of recommendation can come in after December 19 but must arrive before we begin to review applications in early January.
+
+The list of application materials required by the Duke Graduate School can be found on their Admissions website. For an application to be considered complete, the Graduate School requires ALL of the following:
+
+* A completed Duke Graduate School electronic application for admission
+* The application fee ($85 USD payable by credit card)
+* Three (3) or more letters of recommendation. The graduate school strongly discourages the submission of more than 3 letters, but the math department does not care if you submit more.
+* Transcripts from all undergraduate institutions you attended, including any exchange student study. (NOTE: You can send in unofficial transcripts with your application, but if accepted you will need to supply official transcripts.)
+* Graduate Record Examination (GRE) scores – the general test is required. The mathematics subject is strongly recommended. Almost all of the applicants we accept will have a subject test score above 50%. (NOTE: GRE scores cannot be more than 5 years old.)
+* For international students, TOEFL exams scores. (see Duke's [English language proficiency requirements](https://gradschool.duke.edu/admissions/apply/english-language-proficiency-test-scores)). The math department only admits students with **a TOEFL of 100 or more, and a speaking score of at least 20**. TOEFL scores can only be 2 years old at the time the application is submitted. We prefer TOEFL exams but we will accept IELTS scores. To be admitted the score should be 7.5 or higher.
+
+To be eligible for a TOEFL waiver, you must have studied full time for two years or more at a college or university where the sole language of instruction is English and in a country where English is the primary spoken language. The two years of study must be completed prior to application submission.
+Application materials must be sent directly to the Duke Graduate School.
+
+Once the application has been uploaded you can no longer revise it. For example it is not possible to upload updated transcripts that show grades from the Fall semester (or quarter). Of course, letters of recommendation will be added as they arrive.
+
+#### Transcripts
+
+Do not mail paper copies of your transcripts before receiving an offer of admission. If you are unable to upload your transcripts to the application because your educational institution does not issue transcripts directly to students, please follow the instructions at the end of this page.
+
+If you are admitted, you will be asked to request an official transcript from each institution listed in the Education section of your application, regardless of the number of credits earned. (You will not have to provide separate official transcripts from study abroad institutions, as long as the study abroad credits are listed on the official transcript from your home educational institution.)
+
+Duke reserves the right to rescind any offer of admission if any discrepancies are found between your uploaded and official transcripts.
+
+**Upload electronic copies of your unofficial transcripts via the online application**. Do not submit secondary-school records.
+
+Each transcript must provide a year-by-year listing of all courses taken and the grade or mark received for each. 
+* The transcript must list your name and the name of the school.
+* If your school provides transcripts in English, please provide the English-language transcript. If your school does not provide transcripts in English, you must provide a transcript in the original language AND an English translation from a professional translation service.
+* If your Social Security number appears on your transcripts, mark out all except the last four digits of the number before uploading the transcripts to your application.
+* If the grading scale of the institution is available, be sure to include that information.
+* Before uploading an electronic transcript issued by your school, make sure it can be opened without passwords or other security information.
+* We do not accept web page screenshots from a student information system in place of transcripts. Uploading screenshots instead of transcripts will delay the processing of your application.
+* You may submit a credential evaluation from a third party (e.g. WES or ECE), but if you do so, you must also submit the transcript from your institution.
+
+#### Letters of Recommendations
+
+The Graduate School requires three recommendation letters in support of your application. Your recommenders must submit their letters of recommendation electronically via the online recommendation system.  
+
+We strongly discourage requesting more than three recommendations unless you are asked to do so by the department to which you are applying. Rather than improving your chances of admission, an excessive number of recommendation letters may actually cause application reviewers to view your file unfavorably.
+
+Should you receive and accept an offer of admission, your recommenders may be asked to verify their authorship of the submitted recommendation letters.
+
+In the Recommendations section of the online application, enter the contact information of your recommenders, including their e-mail addresses. Each recommender will then receive an e-mail that includes a link to an online recommendation form. This is the form the recommender will use to upload a letter in support of your application.
+
+The Graduate School accepts recommendations from the Interfolio letter service and other letter services that are compatible with our online recommendation system. If you are using a letter service, enter the recommender’s name in the recommendation section of the application and enter the e-mail address provided by the letter service.
+
+#### Statement of Purpose
+
+As part of your online application, you must upload a statement of purpose. The statement should be one to two pages and single spaced. It should briefly discuss
+
+* your purposes and objectives in pursuing graduate study;
+* your special interests and plans;
+* your strengths and weaknesses in your chosen field;
+* any research projects or any independent research in which you have actively participated and how they have influenced your career choice and desire to pursue graduate studies; and
+* any particular reasons you may have for applying to Duke (e.g. you would like to work with a specific faculty member).
+
+#### Resume
+
+As part of your online application, you must upload a resume or curriculum vitae (CV). This document should summarize your education, academic achievements, work history, and professional accomplishments. It may also include a list of skills, publications, research experiences, and other credentials that demonstrate your preparedness for graduate study.
 
 
 
