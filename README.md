@@ -15,7 +15,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
 [NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
 [Yale](#yale-university) | send official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
-[Michigan](#university-of-michigan) | send official transcript _before_ admission |  |  | (https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | 
+[Michigan](#university-of-michigan) | **PS&SOP**; official transcript **before** admission |  |  | [$90](https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | 
 [Cornell](#cornell-university) |  | a |  |  |  | 
 [Brown](#brown-university) |  |  |  |  | a | a 
 [Texas-Austin](#university-of-texas) |  |  | a |  |  | 
@@ -577,12 +577,52 @@ US News Rank: [Math][1] #12, [Analysis][2] #14, [Algebra][3] 7, [Geometry][4] #1
 * [Mathematics Graduate Programs](https://lsa.umich.edu/content/michigan-lsa/math/en/graduates.html)
 
 
-#### Transcript
+### PS, SOP, Resume/CV
+
+* Include at the top of each document:
+** The type of document (Academic Statement of Purpose, Personal Statement, or Curriculum Vitae orResume)
+** Your name
+** The name of the graduate program
+** Your 8 digit U-M ID (if known)
+* Make sure margins are at least one-inch so nothing is cropped when you upload the documents to the application.
+
+#### Academic Statement of Purpose
+
+The academic statement of purpose should be a concise, well-written statement about your academic and research background, your career goals, and how this graduate program will help you meet your career and educational objectives.
+
+#### Personal Statement
+
+How have your background and life experiences, including cultural, geographical, financial, educational or other opportunities or challenges, motivated your decision to pursue a graduate degree at the University of Michigan?
+
+For example, if you grew up in a community where educational, cultural, or other opportunities were either especially plentiful or especially lacking, or are undocumented or DACAmented, you might discuss the impact this had on your development and interests. This should be a discussion of the journey that has led to your decision to seek a graduate degree. If you will be a graduate student with Deferred Action for Childhood Arrival (DACA), it is important to mention DACA in your personal statement since this is a consideration for some financial aid.
+
+The personal statement has a 500 word limit and should be different from your Academic Statement of Purpose.
+
+#### Curriculum Vitae or Resume
+
+A curriculum vitae (CV) or resume describes your education, work experience, research publications, teaching experience, professional activities, volunteer activity, community engagement, honors and awards.
+
+
+### Transcript
 
 * **You need two official transcripts.** One for you to upload and one submitted directly to Rackham no matter how many programs you apply to.
 * Submit only official transcripts. These bear the issuing institution’s seal and the official signature of the Registrar (or Recorder of Records). For those enrolled in degree study at the time of application, submit only the most recent in-progress transcript for that degree.
 
 
+### Letters of Recommendation
+
+* You will need each recommender’s name, mailing address, email address, phone number, institution or employer, and title.
+Under the Family Educational Rights and Privacy Act of 1974, if you are admitted and decide to enroll, you have access to your education record, including letters of recommendation at U-M.
+** If you select “Yes” to waive your right, you will not have access to the letter of recommendation.
+** If you select “No” to waive your right, then you will have access to the letter of recommendation.
+* Students should note that some recommenders may choose not to prepare a recommendation if these rights have not been waived. You will not be able to change the waiver status once your recommender has logged into their online recommendation account.
+* You may register your recommenders in ApplyWeb before completing your application. In ApplyWeb select “Submit Recommendation Request” to confirm. An invitation email is then sent to your recommender.
+* Registering your recommenders must be completed before you submit your application.
+* After Registering Your Recommenders:
+** Recommendations can be uploaded to your application before or after you have submitted your application.
+** Check the status of your letters of recommendation, change a recommender, or resend the notification email to your recommender using the ApplyWeb Activity Page.
+** You can only change your recommender if status displays as “Not Started.” You are able to update the name of the recommender and the email address. The other contact information cannot be edited.
+** If the status is “Completed” or “In Progress” you cannot change your recommender, contact the graduate program for an alternative for submitting a recommendation.
 
 #### Tests
 
