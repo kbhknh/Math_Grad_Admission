@@ -15,6 +15,11 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
 [NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
 [Yale](#yale-university) | send official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
+[Michigan](#university-of-michigan) | a |  |  |  | 1839 | 
+[Cornell](#cornell-university) |  | a |  |  |  | 
+[Brown](#brown-university) |  |  |  |  | a | a 
+[Texas-Austin](#university-of-texas) |  |  | a |  |  | 
+[Duke](#duke-university) |  | a |  |  |  | 
 [U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
 [Wisconsin](#wisconsin-madison)|**TOEFL 109**; supp. mater. deadline Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
 
@@ -562,6 +567,35 @@ The Graduate School does require incoming doctoral students who received a score
 
 * What is it about Yale that has led you to apply?(200 characters, not words)
 * Diversity Statement (optional) : The Yale Graduate School is strongly committed to attracting qualified students with diverse backgrounds and experiences to its community of scholars. Applicants are encouraged to describe how they would contribute to diversity within the graduate school community. (250 - 300 words)
+
+
+
+## University of Michigan
+US News Rank: [Math][1] #12, [Analysis][2] #14, [Algebra][3] 7, [Geometry][4] #11
+
+* [Applying to UM-Ann Arbor](https://rackham.umich.edu/admissions/applying/)
+* [Mathematics Graduate Programs](https://lsa.umich.edu/content/michigan-lsa/math/en/graduates.html)
+
+#### Tests
+
+* Register early to maximize the chances of scheduling preferred test dates and times.
+* Use your legal name as stated on your passport or birth certificate when registering for your exams and when completing the online application, to prevent a delay in matching your test scores to your application.
+
+* TOEFL : minimum overall 84, TOEFL scores are sent by ETS electronically to institution code: 1839
+
+
+
+## Cornell University
+US News Rank: [Math][1] #13
+
+## Brown University
+US News Rank: [Math][1] #14(2 tied)
+
+## University of Texas
+US News Rank: [Math][1] #14(2 tied), [Analysis][2] #7
+
+## Duke University
+US News Rank: [Math][1] #16, [Analysis][2] #15, [Algebra][3] #10, [Geometry][4] #14
 
 
 
