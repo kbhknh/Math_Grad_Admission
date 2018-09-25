@@ -15,7 +15,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Caltech](#caltech) | - | Dec 15 | [gradofc@caltech.edu](mailto:gradofc@caltech.edu) or (626) 395-6346 | [$100](https://www.applyweb.com/caltgapp/index.ftl "Admission site") | 4034 | -
 [NYU](#new-york-university) | send official transcript _after_ admission | **Dec 18** | [gsas.admissions@nyu.edu](mailto:gsas.admissions@nyu.edu) or (212) 998-8050 | [$110](https://apply.gsas.nyu.edu/apply/ "Admission site") | 2596 | close to your field of study(TOEFL)
 [Yale](#yale-university) | send official transcript _after_ admission | Dec 15 | [graduate.admissions@yale.edu](mailto:graduate.admissions@yale.edu) or (203) 432-2771 | [$105](https://apply.grad.yale.edu/apply/ "Admission site") | 3987 | Unnecessary
-[Michigan](#university-of-michigan) | **PS&SOP**; official transcript **before** admission |  |  | [$90](https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | 
+[Michigan](#university-of-michigan) | **PS&SOP**; official transcript **before** admission | TBA | [rackadmis@umich.edu](mailto:rackadmis@umich.edu) or (734) 764-8129 | [$90](https://www.applyweb.com/cgi-bin/app?s=umgrad "Admission site") | 1839 | 
 [Cornell](#cornell-university) |  | a |  |  |  | 
 [Brown](#brown-university) |  |  |  |  | a | a 
 [Texas-Austin](#university-of-texas) |  |  | a |  |  | 
