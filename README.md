@@ -25,8 +25,12 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [UCSD](#ucsd)| send official transcript _after_ admission | **Jan 7** | [mathgradadmissions@math.ucsd.edu](mailto:mathgradadmissions@math.ucsd.edu) | [$125](https://math.ucsd.edu/prospective-students/how-to-apply-graduate/index.html) | 4836 | Unnecessary 
 [UIUC](#uiuc) | Should report Fall semester grades | **Jan 4** | [math-grad@illinois.edu](mailto:math-grad@illinois.edu) | [$90](https://grad.illinois.edu/admissions/apply/checklist.htm) | 1836 | Unnecessary 
 [Minnesota](#university-of-minnesota) | send official transcript _after_ admission | Dec 15 | [gradprog@math.umn.edu](mailto:gradprog@math.umn.edu) | [$95](https://www.grad.umn.edu/admissions-application-instructions/application-fee) | 6874 | 0703(GRE), 72(TOEFL) 
-[Washington](#university-of-washington) | send official transcript _after_ admission | [grads@math.washington.edu](mailto:grads@math.washington.edu) | [$85](http://grad.uw.edu/admissions/apply-now/) | 4854 | Unnecessary
-[Utah](#university-of-utah) |  | **Jan 1** | [tooman@math.utah.edu](mailto:tooman@math.utah.edu) |  | 4853 | 
+[Washington](#university-of-washington) | send official transcript _after_ admission | **Jan 1** | [grads@math.washington.edu](mailto:grads@math.washington.edu) | [$85](http://grad.uw.edu/admissions/apply-now/) | 4854 | Unnecessary
+[Utah](#university-of-utah) | send official transcript _after_ admission | **Jan 1** | [tooman@math.utah.edu](mailto:tooman@math.utah.edu) | [$65](https://admissions.utah.edu/apply/graduate/) | 4853 | 0703(GRE)
+[Texas A&M](#university-of-texas-A&M) | Should send **official** transscript | Dec 15 | [gstudies@math.tamu.edu](mailto:gstudies@math.tamu.edu) | [$90](http://www.math.tamu.edu/graduate/appinfo.html) | 6003 | Unnecessary
+
+
+
 
 ## Princeton
 US News Rank: [Math][1] #1, [Analysis][2] #2, [Algebra][3] #3, [Geometry][4] #3(2 tied)
@@ -814,10 +818,15 @@ Please do not mail official transcripts to GIAC or to the Math Department. When 
 The following items are also required by the Math Department :
 
 * **General GRE and Subject GRE** - The Mathematics Subject GRE score must be submitted along with the General test score.  Official scores are reported directly to UT Austin (GIAC) when you select our University code.  Applications received without the Mathematics Subject GRE score will be accepted, but we cannot guarantee that they will receive equal consideration. GRE Subject scores are also expected for applicants to the Master's program in Actuarial Science. If your official scores are only available after the December 15 deadline, we recommend you obtain your scores on the ETS website and self report these in a separate document. Please title this document “General GRE and/or Subject GRE Scores”, and upload it as a “miscellaneous document” via your Status Check page. For more information on test scores, please see this page: [https://gradschool.utexas.edu/how-to-apply](https://gradschool.utexas.edu/how-to-apply)
+
 * **Statement of purpose** - 1-2 pages describing your research area of interest, listing any publications, and descriptions of previous or current research work. If you maintain a personal website or mathematics blog and you would like to share this with us, please include the URL in this document. This can be submitted via your Status Check page after submission of the ApplyTexas form.
+
 * **Three letters of recommendation** - must be submitted via the UT Austin recommendation system. 
+
 * **Resume** - include any awards, honors or other important items you wish to highlight. This can be submitted via your Status Check page after submission of the ApplyTexas form.
+
 * **Other Documents** - Although not required, applicants are strongly encouraged to submit samples of your publications, thesis, research notes, etc. to support your application Please submit these items as a “miscellaneous document” via your Status Check page.
+
 * **TOEFL** - (International students only) Please submit per the instructions above for the GRE. IELTS scores may not be substituted for TOEFL scores. If you have not yet received your official test results, self-report your test score(s) in a separate document and title this as “TOEFL Scores”, and upload as a “miscellaneous document” via your Status Check page. 
 
 After you have submitted the ApplyTexas application, it will take approximately one to two business days to load into UT's system.   When GIAC receives your application you will receive an email with your UT EID and password.  Your UT EID is an identifier that UT Austin uses for applicants and students.  Do not create an additional UT EID.  You must use the one assigned to you after you submit your application.  If you are a previous or current student of UT Austin, you should use your existing UT EID.
@@ -964,12 +973,19 @@ The deadline to submit all supporting application materials for Fall admission i
 Typically we expect:
 
 * **Transcripts** or academic records from each institution attended. Transcripts do **not** have to include fall semester grades. Thus, transcripts may contain courses in progress. International academic records must be in the original language accompanied by an official English translation. Documents should be uploaded as part of the online Graduate School [application](https://grad.wisc.edu/apply/). [If you are recommended for admission, the Gradaute School will request official transcripts.]
+
 * A **Supplemental Application Form** is part of the online Graduate School [application](https://grad.wisc.edu/apply/). It is important that you include all advanced mathematics courses you have completed, are currently enrolled in, or intend to take. For each course give the name of the school where you took it, the course number, the title, description, books used, and the grade you received (for completed courses). If you have more than 20 courses, please include ONLY the most advanced courses. We are looking for the course descriptions, and books used - this is not just a repeat of transcript information. Your transcript does not give us course descriptions and books used.
+
 * A **statement of reasons** for graduate study. Submit this electronically with your online Graduate School [application](https://grad.wisc.edu/apply/).
+
 * **GRE** (Graduate Record Exam) scores, including the Subject test in mathematics. In exceptional cases, advanced GRE's from other sciences can be substituted for the advanced GRE in mathematics. December scores will be received online by mid-January. If you have taken the exam by December 15, this will not present a problem. If you take the exam after December, your scores will not reach us in time. You may submit your application without a GRE or Subject test score, but your application may be at a severe disadvantage. Have ETS (Educational Testing Service) electronically submit your scores, using our institution code of **1846**. (There is NO department code. It doesn't matter what department code you choose, the university's central database receives the scores. It is preferable you do not choose a dept code.)
+
 * Three **letters** that address the question of mathematical promise. These letters should be from mathematics faculty, or other faculty familiar with the demands of graduate work in mathematics. Please note we do not require forms for letters of recommendation. Have your recommenders submit their letters electronically through your [online application](https://grad.wisc.edu/apply/).
+
 * Applicants, whose native language is not English or whose undergraduate instruction was not in English, must provide official scores from the **TOEFL** (Test of English as a Foreign Language). See the [Graduate School’s website](https://grad.wisc.edu/apply/requirements/) for exemptions from taking the TOEFL. Please have ETS electronically submit your scores, using our institution code of **1846**. (There is NO department code.)
+
 For minimum scores related to the TOEFL Exam, click [here](https://grad.wisc.edu/apply/requirements/). Competitive scores for the TOEFL are 630 (paper), 267 (computer), 109 or above.
+
 * The Graduate School application fee is currently **75.00**, plus an additional **6.00** international document processing fee for non US citizens. The Mathematics Department is not able to waive these fees.
 
 **International students please note**: if we offer admission and you accept it, we require international students attend a summer (early July to mid August) TA orientation/training program (prior to the start of the semester) and successfully complete the SPEAK test of spoken English (given on campus). This is a mandatory program. By accepting our offer of admission, you are obligated to be here for the program. Attendees are given some financial support during the summer orientation.
@@ -977,9 +993,13 @@ For minimum scores related to the TOEFL Exam, click [here](https://grad.wisc.edu
 If you have any questions about the above requirements, please see the [Frequently Asked Questions (FAQ) page](http://www.math.wisc.edu/graduate/faqs).
 
 * International student financial information will only be requested by the Graduate School after the departmental recommendation for admission. For information on International Student Expenses, please click [here](https://grad.wisc.edu/international-students/).
+
 * Please check your ‘status check’ sheet online at MyUW to check to see if your materials have arrived. The status check will be available starting December 5. However, if materials were sent through the postal service, the online system will be updated as mail is processed. It could take a few weeks to process the mail. **Please Note**: You must submit your online application before anything can be noted on your status check page.
 
 Decisions for acceptance to the program will not occur until March and we will contact you. If you have not heard from us, it is possible that we are still considering your application. We typically receive over 400 applications. Please refrain from contacting us to find out the status of your application. We can appreciate that you are anxious to hear about the admission decision, however, we have a limited amount of resources to respond to the email requests.
+
+
+
 
 ## UCSD
 US News Rank: [Math][1] #19(2 tied), [Analysis][2] #15+, [Algebra][3] #12+, [Geometry][4] #14+
@@ -1032,16 +1052,22 @@ Focus your Statement of Purpose on the reasons you are interested in attending a
 Five primary topics to cover in your statement of purpose:
 
 * How did you become interested in this field? Establish that you have had a long-term interest in the field and that you have taken positive steps in pursuing your interest. Give the committee members a sense of your particular talents and abilities and their relevance to your academic interests.
+
 * What experiences have contributed toward your preparation for further study in this field? Demonstrate your interest by providing examples of research experiences, internships, work experience, community service, publications, or life experiences. Briefly describe what you did in each experience. Also, make sure to articulate what you have learned about the field and how those lessons stimulated you to pursue an advanced degree.
+
 * What are your future goals? Specifically state your degree objective (Master's or Ph.D.) and specify what subdisciplines you are interested in pursuing. For example, if you are applying in political science, the committee needs to know whether you are pursuing American Politics, Comparative Politics, International Relations, or Political Theory. Let the reader know that you are planning a future career as a university professor, researcher, or consultant, or in public service or private practice (or whatever your goal happens to be).
+
 * What are your research interests? Within your subdiscipline, you should be able to identify one or two topics that are of interest to you. When possible, be specific about your research agenda. Remember that you will be working with professors in research; therefore, your research interests should parallel those of the faculty. (You will usually not be expected to know exactly what you want to research; faculty know that initial interests often change.)
+
 * How are you a "match" for the program to which you are applying? Explain what attracts you most to the institution/program to which you are applying. Align your research interests with those of one or more of the affiliated professors. The better the "match" with the program/professors, the better the chance that you will be admitted.
 
 Other factors to weave in (remember these are secondary factors):
 
 * Give examples of personal attributes or qualities that would help you complete graduate study successfully.
 Describe your determination to achieve your goals, your initiative and ability to develop ideas, and your ability to work independently.
+
 * Describe background characteristics that may have placed you at an educational disadvantage (English language learner, family economic history, lack of educational opportunity, disability, etc.).
+
 * Leave the reader believing that you are prepared for advanced academic work and will be successful in graduate school.
 
 
@@ -1171,6 +1197,59 @@ The results from the GRE General Test (for all applicants) and GRE Math Subject 
 
 #### Application Fee
 There will be an application fee required to process your application by the University of Washington Graduate School Admissions Office. You must pay on-line to be able to declare your application complete.
+
+
+
+
+## University of Utah
+US News Rank: [Math][1] #34, [Analysis][2] #17+, [Algebra][3] #12, [Geometry][4] #14+
+
+#### Application Deadline : Jan 1, 2019 (for financial support)
+
+### Application Materials
+Applicants must upload a copy of all post-secondary **transcripts** to their application. These transcripts will be used as working copies during the admissions evaluation process. Failure to list all schools previously attended or making false or misleading statements on the application may result in cancellation of admission status and/or loss of credit.
+
+Official English translations must be provided if the transcripts are only in the native language.
+Before starting classes at the University of Utah, students must submit official copies of their transcripts and diploma(s) directly to the Office of Admissions.
+
+Official printed transcripts can be dropped off in a closed envelope sealed with adhesive at the International Admissions service window in the Student Services Building (SSB) or mailed to:
+
+	The University of Utah
+	International Admissions
+	201 South 1460 East, Room 250s
+	Salt Lake City, UT 84112 USA
+
+In addition to academic transcripts, applicants must upload any additional documents required by the academic department/program. Examples of items frequently requested by departments include:
+
+* Letters of Recommendation
+* Statement of Purpose
+* Resume/CV
+* Test Scores(GRE & TOEFL)
+
+
+
+## University of Texas A&M
+US News Rank: [Math][1] #39, [Analysis][2] #16, [Algebra][3] #12+, [Geometry][4] #14+
+
+#### Application Deadline : Dec 15, 2018
+
+### Application Information
+The following items are required to apply to the Graduate Program of Mathematics:
+
+* **Departmental Preapplication form** Only submit once. If you made an error in the departmental pre-application, do not submit it again. Notify our department and we will edit the departmental pre-application on our end.
+
+* **ApplyTexas application**. Once the main Admissions Office receives the ApplyTexas application, they will send a notice to you with information about the UIN (university identification number) and how to use this number to access the AIS tracking system where you will upload your remaining items (personal statement, resume, transcripts, and test scores) and also track the status of your application materials. Please be aware that it usually takes the main Admissions Office 3-5 days to send the UIN notice after receipt of the ApplyTexas application. And during peak application periods (December-March), it can take up to 10 days or longer to send the UIN notice so you will need to take this into account when submitting your application. We ask that you do not enter in your Social Security Number in the ApplyTexas application.
+
+* **Official transcripts** and **degree statements** from every senior-level institution of higher education attended (transcripts from community colleges are not required). For review purposes, you may upload unofficial copies of your transcripts into the AIS system. If your Social Security Number is printed on the transcript, you must black it out prior to uploading.
+(For international applicants: transcripts must be in **native** language of the institution and also include an **official English translation**.)
+
+* General and Math Subject **GRE** scores taken within 5 years of the date application was received (the GRE Subject score is only required for PhD applicants). The scores must be reported directly from ETS. Our institution code is 6003. A departmental code is not needed.
+
+* If native language is not English: **TOEFL**, IELTS or PTE scores taken within the last 2 years of the date application was received (must be directly reported from their respective testing centers. Our institution code is 6003; the departmental code is not necessary). In order to be admitted, students must have achieved at least the following minimum required scores on the indicated tests: TOEFL: **80**; IELTS: 6.0; PTE: 53. Texas A&M will only waive the TOEFL/IELTS/PTE if the student scores at least 400 (old scale system) or 146 (new scale system) on the verbal portion of the general GRE OR if the student has completed a bachelor's degree with all years of attendance at a US institution (having just an MS from a US institution is not sufficient). International students supported on assistantships need to become certified for English proficiency within one year of enrollment. Students can become certified prior to enrollment by achieving any one of the following scores on the speaking sections of the indicated tests: TOEFL: **26 - 30**; IELTS: 8.0; PTE: 85. Students who are not certified prior to enrollment can obtain certification by scoring 80 or better on the English Language Proficiency Exam (ELPE), administered by Testing Services at Texas A&M University. (More information about the ELPE can be found at the web site https://testing.tamu.edu/Exams/ELPE.)
+
+* **3 letters of recommendation**. There is an electronic Letter of Recommendation system (eLOR) accessed via AIS which is the preferred method for submission (paper letters submitted via regular mail take longer for Admissions to process). Applicants must enter in the email address and other information pertaining to their recommender into the eLOR system then click "send email" to notify their recommender that they are requesting a letter of reference. Recommendations should come from individuals who can attest to the applicant's mathematical abilities.
+
+* **Application fee** (non-refundable): 65.00 for U.S. applicants, **90.00** for international applicants. 
 
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
 [2]: https://www.usnews.com/best-graduate-schools/search?program=top-science-schools&specialty=mathematical-analysis
