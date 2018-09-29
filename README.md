@@ -22,6 +22,7 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Duke](#duke-university) | send official transcript _after_ admission | **Dec 19** | [grad-admissions@duke.edu](mailto:grad-admissions@duke.edu) | [$85](https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=dukegrad "Admission site") | 5156 | Unnecessary
 [U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
 [Wisconsin](#wisconsin-madison)|**TOEFL 109**; supp. mater. deadline Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
+[UCSD](#UCSD)| send official transcript _after_ admission | **Jan 7** | [mathgradadmissions@math.ucsd.edu](mailto:mathgradadmissions@math.ucsd.edu) | [$125](https://math.ucsd.edu/prospective-students/how-to-apply-graduate/index.html) | 4836 | Unnecessary |
 
 
 
@@ -886,11 +887,55 @@ As part of your online application, you must upload a statement of purpose. The 
 
 As part of your online application, you must upload a resume or curriculum vitae (CV). This document should summarize your education, academic achievements, work history, and professional accomplishments. It may also include a list of skills, publications, research experiences, and other credentials that demonstrate your preparedness for graduate study.
 
-
+## 
 
 ## University of Pennsylvania
+US News Rank: [Math][1] #16, [Analysis][2] #17+, [Algebra][3] #12+, [Geometry][4] #10
 
+* [graduate program description](https://www.math.upenn.edu/graduate/program-description)
+* [How to apply](https://www.math.upenn.edu/graduate/admissions/applying/how-apply)
+* [FAQ](https://www.math.upenn.edu/graduate/admissions/applying/application-faq)
 
+#### Deadlines
+The deadline for submission of applications is **December 31st**, in the case of applications that request financial support. If some of the material related to the application (letters of recommendation or score on the GRE or TOEFL) is received **a few weeks later**, the application can still be considered. But since the Admissions Committee reads the files during January, and then meets near the **end of January**, material must arrive by then in order to be considered during the admission process.
+
+If supplementary application materials are submitted after January 1 (whether or not financial support is being requested), a follow-up email message should be sent to the Mathematics Department's Graduate Group Chair, indicating what has been submitted. This includes letters of recommendation.
+
+### Application Requirements
+Applicants should check that their applications are complete and correct before submitting them, since the online system does not allow changes to be made after that. Complete applications contain the following items:
+
+* Application form
+* Transcripts (can be unofficial at this stage)
+* Statement of purpose
+* CV/resume
+* Letters of recommendation (at least 3, at most 5)
+
+The application form consists of these sections:
+
+* Personal information
+* Program information
+* Academic background
+* Standardized tests
+* Additional information
+
+No additional writing sample is needed in the application.
+
+Applicants should submit scores for the **GRE math** subject test and the **TOEFL** (unless exempt from that). Scores on the **basic GRE** test are also requested. Exemptions from the TOEFL are granted to applicants whose native language is English; to those who did their entire undergraduate studies in the United States or Canada; and to those whose spoken English skills have been adequately demonstrated to our admissions committee.
+
+Transcripts are uploaded to the Academic Background section, after entering the other requested information there. The transcript can be unofficial. Those applicants who are admitted will be required to submit an official transcript prior to matriculating in the Penn Math Graduate Program.
+
+If necessary, additional materials can be sent by email to the Mathematics Department's Graduate Coordinator, Reshma Tanna.
+
+### Application and Admission process
+* In order to submit an on-line application, it is necessary to **list at least three people** (generally mathematics professors) as writers of letters of recommendation. Once your application is submitted, you cannot arrange for any additional letter writers (beyond those you listed in your application) to upload letters directly to the online system. Instead, if you wish to get additional letters beyond those you indicated on your application, you can ask the additional letter writers to email their letters to the Mathematics Graduate Coordinator, Reshma Tanna. In their message they should state that this letter is for your application to the Mathematics Graduate Program and that the letter should be uploaded to your application.
+
+* Admissions decisions are made by the Mathematics Graduate Admissions Committee, and not by individual professors. Therefore, requests for admission should not be sent to individual members of the faculty, and instead should be submitted as indicated above. Nevertheless, applicants may wish to contact specific professors with whom they may have a particular interest in working, in order to discuss the possibility of applying and in doing research in their area (but should not send mass emails to professors).
+
+* Applicants cannot be considered for possible admission (and no admission decision can be made) until an official online application form is submitted by the applicant and is received by the Mathematics Graduate Admissions Committee.
+
+* Applicants may wish to visit the Penn Math Department in person, to get a better sense of the department and the graduate program. Such visits can be helpful to applicants in deciding where to apply and what offers to accept (but are not part of the Admissions Committee's decision process).
+
+* Those who are admitted will be notified by **email** and **letter**. Those who are rejected will have their status indicated on the online application **website**. While some decisions will be made in February or early March, others will not be made until close to the uniform reply date of April 15, since our admissions committee must wait for replies from those admitted in the first round before being able to make offers to those on our waitlist.
 
 ## Wisconsin-Madison
 US News Rank: [Math][1] #16, [Analysis][2] #11, [Algebra][3] #11, [Geometry][4] #14+
@@ -907,14 +952,12 @@ The deadline to submit all supporting application materials for Fall admission i
 ### Admission Requirements
 Typically we expect:
 
-* A GPA of at least 3.0 overall and substantially higher in mathematics courses.
-* 18 or more credits of mathematics beyond calculus. The 18 credits should include at least one semester of both rigorous analysis (sometimes called advanced calculus) and abstract algebra, and preferably two semesters. Advanced undergraduate courses in other topics further strengthen your application.
-* Transcripts or academic records from each institution attended. Transcripts do not have to include fall semester grades. Thus, transcripts may contain courses in progress. International academic records must be in the original language accompanied by an official English translation. Documents should be uploaded as part of the online Graduate School [application](https://grad.wisc.edu/apply/). [If you are recommended for admission, the Gradaute School will request official transcripts.]
-* A “Supplemental Application Form” is part of the online Graduate School [application](https://grad.wisc.edu/apply/). It is important that you include all advanced mathematics courses you have completed, are currently enrolled in, or intend to take. For each course give the name of the school where you took it, the course number, the title, description, books used, and the grade you received (for completed courses). If you have more than 20 courses, please include ONLY the most advanced courses. We are looking for the course descriptions, and books used - this is not just a repeat of transcript information. Your transcript does not give us course descriptions and books used.
-* A statement of reasons for graduate study. Submit this electronically with your online Graduate School [application](https://grad.wisc.edu/apply/).
-* GRE (Graduate Record Exam) scores, including the Subject test in mathematics. In exceptional cases, advanced GRE's from other sciences can be substituted for the advanced GRE in mathematics. December scores will be received online by mid-January. If you have taken the exam by December 15, this will not present a problem. If you take the exam after December, your scores will not reach us in time. You may submit your application without a GRE or Subject test score, but your application may be at a severe disadvantage. Have ETS (Educational Testing Service) electronically submit your scores, using our institution code of **1846**. (There is NO department code. It doesn't matter what department code you choose, the university's central database receives the scores. It is preferable you do not choose a dept code.)
-* Three letters that address the question of mathematical promise. These letters should be from mathematics faculty, or other faculty familiar with the demands of graduate work in mathematics. Please note we do not require forms for letters of recommendation. Have your recommenders submit their letters electronically through your [online application](https://grad.wisc.edu/apply/).
-* Applicants, whose native language is not English or whose undergraduate instruction was not in English, must provide official scores from the TOEFL (Test of English as a Foreign Language). See the [Graduate School’s website](https://grad.wisc.edu/apply/requirements/) for exemptions from taking the TOEFL. Please have ETS electronically submit your scores, using our institution code of **1846**. (There is NO department code.)
+* **Transcripts** or academic records from each institution attended. Transcripts do **not** have to include fall semester grades. Thus, transcripts may contain courses in progress. International academic records must be in the original language accompanied by an official English translation. Documents should be uploaded as part of the online Graduate School [application](https://grad.wisc.edu/apply/). [If you are recommended for admission, the Gradaute School will request official transcripts.]
+* A **Supplemental Application Form** is part of the online Graduate School [application](https://grad.wisc.edu/apply/). It is important that you include all advanced mathematics courses you have completed, are currently enrolled in, or intend to take. For each course give the name of the school where you took it, the course number, the title, description, books used, and the grade you received (for completed courses). If you have more than 20 courses, please include ONLY the most advanced courses. We are looking for the course descriptions, and books used - this is not just a repeat of transcript information. Your transcript does not give us course descriptions and books used.
+* A **statement of reasons** for graduate study. Submit this electronically with your online Graduate School [application](https://grad.wisc.edu/apply/).
+* **GRE** (Graduate Record Exam) scores, including the Subject test in mathematics. In exceptional cases, advanced GRE's from other sciences can be substituted for the advanced GRE in mathematics. December scores will be received online by mid-January. If you have taken the exam by December 15, this will not present a problem. If you take the exam after December, your scores will not reach us in time. You may submit your application without a GRE or Subject test score, but your application may be at a severe disadvantage. Have ETS (Educational Testing Service) electronically submit your scores, using our institution code of **1846**. (There is NO department code. It doesn't matter what department code you choose, the university's central database receives the scores. It is preferable you do not choose a dept code.)
+* Three **letters** that address the question of mathematical promise. These letters should be from mathematics faculty, or other faculty familiar with the demands of graduate work in mathematics. Please note we do not require forms for letters of recommendation. Have your recommenders submit their letters electronically through your [online application](https://grad.wisc.edu/apply/).
+* Applicants, whose native language is not English or whose undergraduate instruction was not in English, must provide official scores from the **TOEFL** (Test of English as a Foreign Language). See the [Graduate School’s website](https://grad.wisc.edu/apply/requirements/) for exemptions from taking the TOEFL. Please have ETS electronically submit your scores, using our institution code of **1846**. (There is NO department code.)
 For minimum scores related to the TOEFL Exam, click [here](https://grad.wisc.edu/apply/requirements/). Competitive scores for the TOEFL are 630 (paper), 267 (computer), 109 or above.
 * The Graduate School application fee is currently **75.00**, plus an additional **6.00** international document processing fee for non US citizens. The Mathematics Department is not able to waive these fees.
 
@@ -926,6 +969,69 @@ If you have any questions about the above requirements, please see the [Frequent
 * Please check your ‘status check’ sheet online at MyUW to check to see if your materials have arrived. The status check will be available starting December 5. However, if materials were sent through the postal service, the online system will be updated as mail is processed. It could take a few weeks to process the mail. **Please Note**: You must submit your online application before anything can be noted on your status check page.
 
 Decisions for acceptance to the program will not occur until March and we will contact you. If you have not heard from us, it is possible that we are still considering your application. We typically receive over 400 applications. Please refrain from contacting us to find out the status of your application. We can appreciate that you are anxious to hear about the admission decision, however, we have a limited amount of resources to respond to the email requests.
+
+## UCSD
+US News Rank: [Math][1] #19, [Analysis][2] #15+, [Algebra][3] #12+, [Geometry][4] #14+
+
+* [Prospective students](https://math.ucsd.edu/prospective-students/index.html)
+* [Graduate division](https://grad.ucsd.edu/admissions/index.html)
+
+#### Deadline : Jan 7, 2019
+
+### Documents Requirements
+Only applications with all of the following documents uploaded will be reviewed - NO EXCEPTIONS :
+
+* Statement of Purpose
+* Unofficial transcripts (official transcripts are only required if admitted into the program)
+* List of mathematics courses taken/projected as well as textbooks used
+* Exactly 3 letters of recommendation (do **not** send more than 3 letters of recommendation)
+* GRE General Test scores
+* GRE Math Subject Test scores 
+* TOEFL or IELTS test scores 
+
+The GRE Math Subject Test should be taken no later than October and the GRE General Test should be taken no later than December in order for scores to be reviewed by the Admissions Committee.
+
+#### Records & Tanscripts
+During Application Process:
+For application review purposes only, scan and upload PDF copies of transcripts for all institutions attended after high school graduation. Please upload **both** the front and back sides of the transcript, even if the back side is blank. 
+
+Uploaded transcripts should be recent and include the details listed below. If a transcript is not available, please upload a statement explaining the circumstances.
+
+* Your name
+* Institution name
+* Dates of attendance
+* Grades/marks received
+* Credits
+* Grading legend
+* Degree conferral, if applicable
+* Do not mail hard copies until you have been admitted. 
+ 
+After Admission Decision:
+Upon provisional admission to UC San Diego, official transcripts from all institutions attended after high school will be required to finalize your admission and must be submitted to the Graduate Admissions office. Official records including transcripts, evaluations, mark sheets, diplomas, certificates, translations, and study abroad work.
+
+Official transcripts must be delivered in a sealed envelope from the administering institution or service. Documents will not be accepted if opened or sealed by the student.
+
+If your academic record cannot be replaced, obtain a properly certified copy. Submitted records become the property of the University, and we cannot return them to you. Certified electronic transcripts sent directly to Graduate Admissions from the issuing institution are also accepted. Electronic transcripts should be sent to gradadmissions@ucsd.edu.
+
+Applicants with academic work in progress who expect to complete a degree program before the intended date of enrollment at UC San Diego, must provide evidence of degree conferral and a final academic transcript as soon as they are available.
+
+#### Statement of Purpose
+Focus your Statement of Purpose on the reasons you are interested in attending a specific graduate program at UCSD. Check the department requirements for the Statement of Purpose. The statement should be well organized, concise, and completely free of grammar, punctuation, and spelling errors. Before submitting the statement, seek constructive comments and criticism from friends and advisors.
+
+Five primary topics to cover in your statement of purpose:
+
+* How did you become interested in this field? Establish that you have had a long-term interest in the field and that you have taken positive steps in pursuing your interest. Give the committee members a sense of your particular talents and abilities and their relevance to your academic interests.
+* What experiences have contributed toward your preparation for further study in this field? Demonstrate your interest by providing examples of research experiences, internships, work experience, community service, publications, or life experiences. Briefly describe what you did in each experience. Also, make sure to articulate what you have learned about the field and how those lessons stimulated you to pursue an advanced degree.
+* What are your future goals? Specifically state your degree objective (Master's or Ph.D.) and specify what subdisciplines you are interested in pursuing. For example, if you are applying in political science, the committee needs to know whether you are pursuing American Politics, Comparative Politics, International Relations, or Political Theory. Let the reader know that you are planning a future career as a university professor, researcher, or consultant, or in public service or private practice (or whatever your goal happens to be).
+* What are your research interests? Within your subdiscipline, you should be able to identify one or two topics that are of interest to you. When possible, be specific about your research agenda. Remember that you will be working with professors in research; therefore, your research interests should parallel those of the faculty. (You will usually not be expected to know exactly what you want to research; faculty know that initial interests often change.)
+* How are you a "match" for the program to which you are applying? Explain what attracts you most to the institution/program to which you are applying. Align your research interests with those of one or more of the affiliated professors. The better the "match" with the program/professors, the better the chance that you will be admitted.
+
+Other factors to weave in (remember these are secondary factors):
+
+* Give examples of personal attributes or qualities that would help you complete graduate study successfully.
+Describe your determination to achieve your goals, your initiative and ability to develop ideas, and your ability to work independently.
+* Describe background characteristics that may have placed you at an educational disadvantage (English language learner, family economic history, lack of educational opportunity, disability, etc.).
+* Leave the reader believing that you are prepared for advanced academic work and will be successful in graduate school.
 
 
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
