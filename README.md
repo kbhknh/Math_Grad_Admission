@@ -20,11 +20,13 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Brown](#brown-university) | send official transcript _after_ admission | **Jan 1** | [graduate_admissions@brown.edu](mailto:graduate_admissions@brown.edu) or (401) 863-2600 | [$75](https://www.applyweb.com/browng/index.ftl "Admission site") | 3094 | **find out on your own on ETS site** 
 [Texas-Austin](#university-of-texas-at-austin) | **TOEFL 109**; send official transcript _after_ admission | Dec 15 | [gradcoordinator@math.utexas.edu](mailto:gradcoordinator@math.utexas.edu) | [$90](https://www.applytexas.org/adappc/gen/c_start.WBX "Admission site") | 6882 | Unnecessary
 [Duke](#duke-university) | send official transcript _after_ admission | **Dec 19** | [grad-admissions@duke.edu](mailto:grad-admissions@duke.edu) | [$85](https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=dukegrad "Admission site") | 5156 | Unnecessary
-[U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) |
+[U Penn](#university-of-pennsylvania)| send official transcript _after_ admission | **Dec 31** | [Graduate@math.upenn.edu](mailto:Graduate@math.upenn.edu) | [90$](https://www.math.upenn.edu/graduate/admissions/applying/application-faq) | 2926 | 0703(GRE), 72(TOEFL) 
 [Wisconsin](#wisconsin-madison)|**TOEFL 109**; supp. mater. deadline Jan 1|Dec 15|[grad_program@math.wisc.edu](mailto:grad_program@math.wisc.edu) or (608) 263-8884|[$81](http://www.math.wisc.edu/graduate/applying/ "Adimission site")|1846|Unnecessary|
-[UCSD](#UCSD)| send official transcript _after_ admission | **Jan 7** | [mathgradadmissions@math.ucsd.edu](mailto:mathgradadmissions@math.ucsd.edu) | [$125](https://math.ucsd.edu/prospective-students/how-to-apply-graduate/index.html) | 4836 | Unnecessary |
-
-
+[UCSD](#ucsd)| send official transcript _after_ admission | **Jan 7** | [mathgradadmissions@math.ucsd.edu](mailto:mathgradadmissions@math.ucsd.edu) | [$125](https://math.ucsd.edu/prospective-students/how-to-apply-graduate/index.html) | 4836 | Unnecessary 
+[UIUC](#uiuc) | Should report Fall semester grades | **Jan 4** | [math-grad@illinois.edu](mailto:math-grad@illinois.edu) | [$90](https://grad.illinois.edu/admissions/apply/checklist.htm) | 1836 | Unnecessary 
+[Minnesota](#university-of-minnesota) | send official transcript _after_ admission | Dec 15 | [gradprog@math.umn.edu](mailto:gradprog@math.umn.edu) | [$95](https://www.grad.umn.edu/admissions-application-instructions/application-fee) | 6874 | 0703(GRE), 72(TOEFL) 
+[Washington](#university-of-washington) | send official transcript _after_ admission | [grads@math.washington.edu](mailto:grads@math.washington.edu) | [$85](http://grad.uw.edu/admissions/apply-now/) | 4854 | Unnecessary
+[Utah](#university-of-utah) |  | **Jan 1** | [tooman@math.utah.edu](mailto:tooman@math.utah.edu) |  | 4853 | 
 
 ## Princeton
 US News Rank: [Math][1] #1, [Analysis][2] #2, [Algebra][3] #3, [Geometry][4] #3(2 tied)
@@ -365,6 +367,8 @@ All applicants must submit a statement of academic purpose. Please compose a suc
 __Please note:__ The statement of academic purpose that you upload should be the final version that you wish the faculty committee to review. Once your application is submitted, this document cannot be changed or replaced.
 
 
+
+
 ## UCLA
 US News Rank: [Math][1] #7(2 tied), [Analysis][2] #1, [Algebra][3] #8(2 tied), [Geometry][4] #12
 
@@ -413,7 +417,7 @@ The minimum Department requirements for applicants, in addition to the minimum U
 4. The GRE General and Math Subject tests. For results to reach us in time,** the General test should be taken by October and the Math Subject test by November.**
 
 ## Caltech
-US News Rank: [Math][1] #9(3 tied), [Analysis][2] #11(2 tied) 
+US News Rank: [Math][1] #9(3 tied), [Analysis][2] #11(2 tied), [Algebra][3] #12+, [Geometry][4] #14+
 
 * [Caltech application requirements info](http://www.gradoffice.caltech.edu/admissions/checklist)
 
@@ -479,8 +483,9 @@ It is strongly recommended that students who do not achieve a high score on thes
 
 
 
+
 ## New York University
-US News Rank: [Math][1] #9(3 tied), [Analysis][2] #5(2 tied), [Geometry][4] #8(2 tied)
+US News Rank: [Math][1] #9(3 tied), [Analysis][2] #5(2 tied), [Algebra][3] #12+, [Geometry][4] #8(2 tied)
 
 * [GSAS Applicaiton Resource Center](http://gsas.nyu.edu/admissions/gsas-application-resource-center.html)
 * [Special Requirements for Matematics](http://gsas.nyu.edu/admissions/gsas-application-resource-center/2017-programs--requirements--and-deadlines/mathematics.html)
@@ -521,7 +526,6 @@ When you apply online, one (1) official academic transcript, mark sheet, or fina
 [LETTERS OF RECOMMENDATION: FREQUENTLY ASKED QUESTIONS](http://gsas.nyu.edu/admissions/gsas-application-resource-center/faqs/letters-of-recommendation.html)
 
 Three letters, online.
-
 
 
 
@@ -572,8 +576,9 @@ The Graduate School does require incoming doctoral students who received a score
 
 
 
+
 ## University of Michigan
-US News Rank: [Math][1] #12, [Analysis][2] #14, [Algebra][3] 7, [Geometry][4] #11
+US News Rank: [Math][1] #12, [Analysis][2] #14, [Algebra][3] #7, [Geometry][4] #11
 
 * [Applying to UM-Ann Arbor](https://rackham.umich.edu/admissions/applying/)
 * [Mathematics Graduate Programs](https://lsa.umich.edu/math/graduates/ph-d-programs/applying.html)
@@ -588,7 +593,6 @@ The undergraduate major need not be mathematics, but a student should have maste
 * advanced calculus of one and several variables
 
 In addition, a student should have completed at least three additional mathematics courses and at least two courses in related fields such as statistics, computer science, or the physical sciences. Students with strong records in less comprehensive programs will be considered for admission but if admitted should expect to spend the first one or two semesters in graduate school completing their undergraduate preparation in mathematics. Based on historical data, we expect that successful applicants to the Ph.D. program will have an overall GPA of at least 3.3 on a 4.0 scale.
-
 
 
 ### PS, SOP, Resume/CV
@@ -651,8 +655,9 @@ Note that for Pure Mathematics, AIM Program and the Actuarial Program, the GRE a
 
 
 
+
 ## Cornell University
-US News Rank: [Math][1] #13
+US News Rank: [Math][1] #13, [Analysis][2] #17+, [Algebra][3] #12+, [Geometry][4] #14+
 
 * [Graduate School Admissions](https://gradschool.cornell.edu/admissions/)
 * [Admissions Detail - Mathematics](https://math.cornell.edu/graduate-admissions-application)
@@ -712,7 +717,7 @@ The on-line application requires you to scan and upload an unofficial copy of yo
 
 
 ## Brown University
-US News Rank: [Math][1] #14(2 tied)
+US News Rank: [Math][1] #14(2 tied), [Analysis][2] #17+, [Algebra][3] #12+, [Geometry][4] #14+
 
 * [General Application Information](https://www.brown.edu/academics/gradschool/apply)
 * [Department of Mathematics](https://www.brown.edu/academics/math/graduate)
@@ -760,8 +765,9 @@ Applicants should expect to be notified within four to eight weeks of the applic
 
 
 
+
 ## University of Texas at Austin
-US News Rank: [Math][1] #14(2 tied), [Analysis][2] #7
+US News Rank: [Math][1] #14(2 tied), [Analysis][2] #7, [Algebra][3] #12+, [Geometry][4] #14+
 
 * [General Admission Information](https://gradschool.utexas.edu/how-to-apply)
 * [Mathematics Admission](https://www.ma.utexas.edu/academics/graduate/admissions)
@@ -815,6 +821,7 @@ The following items are also required by the Math Department :
 * **TOEFL** - (International students only) Please submit per the instructions above for the GRE. IELTS scores may not be substituted for TOEFL scores. If you have not yet received your official test results, self-report your test score(s) in a separate document and title this as “TOEFL Scores”, and upload as a “miscellaneous document” via your Status Check page. 
 
 After you have submitted the ApplyTexas application, it will take approximately one to two business days to load into UT's system.   When GIAC receives your application you will receive an email with your UT EID and password.  Your UT EID is an identifier that UT Austin uses for applicants and students.  Do not create an additional UT EID.  You must use the one assigned to you after you submit your application.  If you are a previous or current student of UT Austin, you should use your existing UT EID.
+
 
 
 
@@ -887,7 +894,8 @@ As part of your online application, you must upload a statement of purpose. The 
 
 As part of your online application, you must upload a resume or curriculum vitae (CV). This document should summarize your education, academic achievements, work history, and professional accomplishments. It may also include a list of skills, publications, research experiences, and other credentials that demonstrate your preparedness for graduate study.
 
-## 
+
+
 
 ## University of Pennsylvania
 US News Rank: [Math][1] #16, [Analysis][2] #17+, [Algebra][3] #12+, [Geometry][4] #10
@@ -937,6 +945,9 @@ If necessary, additional materials can be sent by email to the Mathematics Depar
 
 * Those who are admitted will be notified by **email** and **letter**. Those who are rejected will have their status indicated on the online application **website**. While some decisions will be made in February or early March, others will not be made until close to the uniform reply date of April 15, since our admissions committee must wait for replies from those admitted in the first round before being able to make offers to those on our waitlist.
 
+
+
+
 ## Wisconsin-Madison
 US News Rank: [Math][1] #16, [Analysis][2] #11, [Algebra][3] #11, [Geometry][4] #14+
 
@@ -971,7 +982,7 @@ If you have any questions about the above requirements, please see the [Frequent
 Decisions for acceptance to the program will not occur until March and we will contact you. If you have not heard from us, it is possible that we are still considering your application. We typically receive over 400 applications. Please refrain from contacting us to find out the status of your application. We can appreciate that you are anxious to hear about the admission decision, however, we have a limited amount of resources to respond to the email requests.
 
 ## UCSD
-US News Rank: [Math][1] #19, [Analysis][2] #15+, [Algebra][3] #12+, [Geometry][4] #14+
+US News Rank: [Math][1] #19(2 tied), [Analysis][2] #15+, [Algebra][3] #12+, [Geometry][4] #14+
 
 * [Prospective students](https://math.ucsd.edu/prospective-students/index.html)
 * [Graduate division](https://grad.ucsd.edu/admissions/index.html)
@@ -1033,6 +1044,133 @@ Describe your determination to achieve your goals, your initiative and ability t
 * Describe background characteristics that may have placed you at an educational disadvantage (English language learner, family economic history, lack of educational opportunity, disability, etc.).
 * Leave the reader believing that you are prepared for advanced academic work and will be successful in graduate school.
 
+
+
+
+## UIUC
+US News Rank: [Math][1] #19(2 tied), [Analysis][2] #17+, [Algebra][3] #12+, [Geometry][4] #14+
+
+* [Math Graduate Admissions](https://math.illinois.edu/admissions/graduate-program-mathematics-admissions)
+* [Graduate College](https://grad.illinois.edu/admissions/apply)
+
+#### Deadline : Jan 4, 2019
+
+### Online Application
+First complete the [online](https://grad.illinois.edu/admissions/apply) portion of the application, including payment of the application fee.
+
+#### GRE
+The GRE general test and mathematics subject test are required for all applicants living in the United States or Canada (except applicants with a bachelor's degree from the University of Illinois at Urbana-Champaign). They are strongly recommended for all other applicants.
+
+#### Transcripts
+As part of the online application process you will be asked to upload a copy of your undergraduate transcript (and also graduate transcript if applicable) showing grades for the most recent semester. For example, applicants for Fall admission should submit a transcript showing grades for the preceding Fall.
+
+#### Letters of Recommendation
+Please arrange for three letters of recommendation to be uploaded to our online application system. Letters from professors who have taught you in mathematics classes or who have supervised you in a research project are the most useful.
+
+#### Personal Statement
+Please include a 1-2 page personal statement as part of your online application. We prefer statements that are honest, specific, and brief, and explain why you are applying to our program.
+
+#### English Requirements for International Applicants
+Students with high TOEFL or IELTS scores have a better chance of admission!
+
+1. Minimum Requirement for Admission
+All international applicants must satisfy the Graduate College English Proficiency Requirement for Admission.
+The Mathematics Department requires a minimum TOEFL iBT speak score of 22 (or IELTS 6.5 speaking score) and a minimum TOEFL total of 95 for admission to the PhD program. Some applicants are exempt from the English requirement for admission. Even those students will increase their chance of admission if they submit recent TOEFL or IELTS scores.
+
+2. Minimum Requirement for Teaching Assistantship Funding
+Teaching assistants must meet a higher standard: proficiency in spoken English, as measured by the Internet Based TOEFL (iBT), the IELTS, the TSE (Test of Spoken English), or the university-administered EPI (English Proficiency Interview). Students who do not satisfy this requirement can still be granted a Teaching Assistantship in Mathematics with duties outside the classroom (e.g. grading) for the first two years, provided they enter with a TOEFL iBT speaking sub-section score of 22 or 23. After two years, continuation of the Teaching Assistantship depends on whether the student has successfully demonstrated proficiency in spoken English.
+
+
+
+
+## University of Minnesota
+US News Rank: [Math][1] #19, [Analysis][2] #10, [Algebra][3] #12+, [Geometry][4] #14+
+
+* [Math Graduate Studies](https://math.umn.edu/graduate)
+* [Graduate School Admissions](https://www.grad.umn.edu/admissions/applicationinstructions)
+
+#### Application Deadline : Dec 15, 2018
+
+### Application Requirements
+#### Graduate Record Examination (GRE) Scores
+A good performance on the GRE Math Subject test helps to confirm knowledge of these topics, and we very strongly recommend that you take the GRE Math Subject test. We also recommend submitting GRE General test scores.
+
+Our department does not require GRE scores for admission, but we strongly recommend taking the Math Subject GRE. Although the math subject GRE is only recommended (not required), the admissions committee is unlikely to admit international applicants without a submitted score.
+
+Official GRE scores are sent by ETS and uploaded to you online application.
+
+For GRE, the University of Minnesota's GRE institution code is **6874**, and the School of Mathematics' department code is **0703**.
+
+#### TOEFL Scores
+TOEFL scores are required for those who did not grow up speaking English as a native language in their home. More information about the TOEFL requirement.
+
+#### Transcripts
+**Unofficial** transcripts or academic records should be uploaded directly to the online application. Do not mail paper copies of your transcripts, there is no need for official transcripts or academic records for initial review.
+
+If you are admitted, you must submit official transcripts or academic records before you enroll at the University of Minnesota.
+
+#### Personal Statement of Purpose and Goals
+is very important for us to assess your sincerity, motivation, and expectations.
+
+Note: Other statements are not required, but will be considered if submitted.
+
+
+For TOEFL, the University of Minnesota's TOEFL institution code is **6874**, and the School of Mathematics' department code is **72**.
+
+#### List of Advanced Mathematics Courses
+Besides the required information on The Graduate School's online application for admission, the School of Mathematics requires that you indicate the text for the advanced mathematics courses you have taken beyond the level of advanced calculus, linear algebra, and elementary courses in differential equations, etc. If you have done reading on your own, please indicate this as well. (Do NOT state: "refer to transcripts"). 
+
+You should list the advanced mathematics courses you have taken. This means courses beyond the usual lower-division mathematics courses such as calculus, introductory differential equations, and introductory linear algebra. Specifically, for graduate work in mathematics it is important to have solid preparation in abstract algebra and analysis, no matter what your eventual specialty may be. It is expected that you will have had year-long courses in both abstract algebra and rigorous analysis. An application should have exceptional strength in other aspects if these expectations are not met. 
+
+It is important that you list the texts used for your advanced courses, and which parts of them you covered. Many courses with the same name are nevertheless radically different from each other. Please do make clear the source and content of your courses. 
+
+#### Letters of Recommendation
+You should list the three people who will write your letters of recommendation. These letters are a very important part of your application, since they are used to estimate your potential and motivation for graduate work in mathematics. Usually these letters are from mathematicians with whom you've been involved in advanced coursework or research projects.
+
+Only letters from those listed by the applicant on the application will be accepted. Letter writers should upload letters in pdf version to the online application system.
+
+
+
+
+## University of Washington
+US News Rank: [Math][1] #26, [Analysis][2] #17, [Algebra][3] #12+, [Geometry][4] #14+
+
+* [Math Graduate Admissions](https://math.washington.edu/graduate-admissions)
+* [UW Graduate School Admissions](http://grad.uw.edu/admissions/)
+
+#### Application Deadline : Jan 1, 2019
+
+### Application Materials
+While completing the online application, all applicants will be asked to submit the following:
+
+#### Unofficial Transcripts
+Information regarding all prior undergraduate and graduate institutions attended, including unofficial transcripts from the relevant institutions. (Admitted applicants must provide official transcripts.)
+
+####  Application Questions(SOP)
+You will be asked a series of question about your goals and background. You can download the questions [here](https://math.washington.edu/sites/math/files/documents/appquestions2018.pdf).
+Letters of Recommendation: You will be asked to enter the names and contact information (affiliation, email, phone), for at least three letters of recommendation and to then activate requests for the letters of recommendation.
+
+#### Advanced Mathematics Courses
+Upload, (in PDF format), a detailed list of all mathematics courses beyond the level of elementary calculus, differential equations, and linear algebra that you have taken or will take before you begin graduate work at the University of Washington. For each course include the following information:
+- Course number and title
+- Grade obtained (for completed courses)
+- School
+- Instructor
+- Dates
+- Title and author of textbook(s) used
+- Material covered (about as much information as would appear in a college catalogue.)
+
+#### Mathematical Background Questionnaire
+This questionnaire asks detailed information about your mathematical background.
+
+#### Resume or CV
+Upload a PDF to the application website.
+
+#### Official GRE Scores
+The results from the GRE General Test (for all applicants) and GRE Math Subject Test (for PhD applicants). Arrange for ETS to electronically send the official scores directly to UW using Institution Code 4854. (Department code is not required.) In order for your scores to arrive on time, you need to complete the test no later than December 15th. Once your application is submitted, the official scores should appear within 48 hours.
+
+#### Application Fee
+There will be an application fee required to process your application by the University of Washington Graduate School Admissions Office. You must pay on-line to be able to declare your application complete.
 
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
 [2]: https://www.usnews.com/best-graduate-schools/search?program=top-science-schools&specialty=mathematical-analysis
