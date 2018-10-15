@@ -27,7 +27,8 @@ School|Note|Deadline|contact|fee|Institution code|Department code|
 [Minnesota](#university-of-minnesota) | send official transcript _after_ admission | Dec 15 | [gradprog@math.umn.edu](mailto:gradprog@math.umn.edu) | [$95](https://www.grad.umn.edu/admissions-application-instructions/application-fee) | 6874 | 0703(GRE), 72(TOEFL) 
 [Washington](#university-of-washington) | send official transcript _after_ admission | **Jan 1** | [grads@math.washington.edu](mailto:grads@math.washington.edu) | [$85](http://grad.uw.edu/admissions/apply-now/) | 4854 | Unnecessary
 [Utah](#university-of-utah) | send official transcript _after_ admission | **Jan 1** | [tooman@math.utah.edu](mailto:tooman@math.utah.edu) | [$65](https://admissions.utah.edu/apply/graduate/) | 4853 | 0703(GRE)
-[Texas A&M](#university-of-texas-A&M) | Should send **official** transscript | Dec 15 | [gstudies@math.tamu.edu](mailto:gstudies@math.tamu.edu) | [$90](http://www.math.tamu.edu/graduate/appinfo.html) | 6003 | Unnecessary
+[Texas A&M](#university-of-texas-a&m) | Should send **official** transscript | Dec 15 | [gstudies@math.tamu.edu](mailto:gstudies@math.tamu.edu) | [$90](http://www.math.tamu.edu/graduate/appinfo.html) | 6003 | Unnecessary
+[Stony Brook](#stony-brook-university) | Should send **official** transscript | **Jan 1** | [graduate-admin@math.stonybrook.edu](mailto:graduate-admin@math.stonybrook.edu) | [$100](http://www.math.stonybrook.edu/applying-phd-program) | 2548 | 0703(GRE) 
 
 
 
@@ -1250,6 +1251,43 @@ The following items are required to apply to the Graduate Program of Mathematics
 * **3 letters of recommendation**. There is an electronic Letter of Recommendation system (eLOR) accessed via AIS which is the preferred method for submission (paper letters submitted via regular mail take longer for Admissions to process). Applicants must enter in the email address and other information pertaining to their recommender into the eLOR system then click "send email" to notify their recommender that they are requesting a letter of reference. Recommendations should come from individuals who can attest to the applicant's mathematical abilities.
 
 * **Application fee** (non-refundable): 65.00 for U.S. applicants, **90.00** for international applicants. 
+
+
+
+## Stony Brook University
+US News Rank: [Math][1] #26, [Analysis][2] #17+, [Algebra][3] #12+, [Geometry][4] #5
+
+* [Applying to Math Ph.D](http://www.math.stonybrook.edu/applying-phd-program)
+* [Graduate Admissions](https://grad.stonybrook.edu/admissions/admissions_faqs.php?accordion=undefined)
+
+#### Application Deadline : Jan 15, 2019 (Jan 1 recommended for funding)
+
+### Applying to the PhD program
+To apply to the Ph.D. program, you need to fill out an application form and include the following material:
+
+* A **statement of purpose**, describing your background and interests
+* **Official transcripts** from all colleges and universities attended
+* At least three **recommendation letters**; this is the most important part of your application
+* Test scores. All applicants are required to take the **GRE General** test; **subject GRE** tests, including the GRE Math Test, are not required. Applicants whose native language is not English must also take the **TOEFL** test. The minimum TOEFL score required for admission is 550 (for paper-based test)=213 (computer-based)=90 (internet-based).
+* Application fee (currently $100)
+
+Applications must be submitted online at [https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=sunysb-gs](https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=sunysb-gs). This site contains detailed instructions. You should also check the web page of Stony Brook University Graduate School and in particular the Graduate Bulletin, which contains a listing of all rules and policies, currently offered graduate courses, and more. (Some of the information in the Bulletin, such as the faculty listings, can be slightly outdated.)
+
+GRE and TOEFL scores must be received by the university in electronic form from ETS; photocopies of your test report are not acceptable. To have the scores sent to us, use the following codes:
+
+Department code: **0703** 
+Stony Brook University Institution code: **2548**
+
+Transcripts must be sent directly to the department at the address below; recommendation letters can be submitted online or sent in paper form to the same address.
+
+	Graduate Admissions
+	Stony Brook University
+	Mathematics Dept - 3651
+	100 Nicolls Road
+	Stony Brook, NY 11794-3651
+	Attn: Christine Gathman
+
+Admissions are generally for Fall semester only: with rare exceptions, we do not consider applications for the Spring semester. The deadline for all Fall 2018 applications is January 15, 2019. For full consideration for Graduate Council and other special fellowships, the applicants are encouraged to apply by **January 1, 2019**.
 
 [1]: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings
 [2]: https://www.usnews.com/best-graduate-schools/search?program=top-science-schools&specialty=mathematical-analysis
