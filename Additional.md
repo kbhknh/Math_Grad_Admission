@@ -33,3 +33,23 @@ In addition, applicants are encouraged to apply for fellowships outside the depa
 
 #### Fonds de recherche du Québec – Nature et technologies
 > The Fonds de recherche du Québec – Nature et technologies (FRQNT) provides scholarships and grants for students and researchers.
+
+## UC Berkeley
+
+### Statement of Purpose
+> Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley would be a good intellectual fit for you.
+
+### Personal History Statement
+> The Personal History Statement is required from all applicants. Please note that the Personal History Statement should not duplicate the Statement of Purpose.
+
+> Please describe how your personal background and experiences influenced your decision to pursue a graduate degree. In this section, you may also include any relevant information on the following:
+* How you have overcome barriers to access higher education
+* How you have come to understand the barriers faced by others
+* Your academic service to advance equitable access to higher education for women, racial minorities and individuals from other groups that have been historically underrepresented in higher education
+* Your research focusing on under served populations or related issues of inequality
+* Your leadership among such groups
+
+### Advanced Mathematics Courses
+> Please provide a list of all upper division mathematics courses which you have completed, are currently in progress, or you expect to complete before enrolling in our program. For courses in this last category, the text need not be listed, and the course title may be a sufficient indication of subject matter. (This includes junior, senior and graduate level mathematics courses which have been or will be taken before the applicant would begin graduate work in the Berkeley Mathematics Department; for Berkeley courses, list only the course number, instructor and grade.)
+
+> List the course number, title, instructor and grade. If applicable, please include a brief summary of text(s) used and subject matter covered in the course.
