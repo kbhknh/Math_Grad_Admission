@@ -776,6 +776,7 @@ US News Rank: [Math][1] #14(2 tied), [Analysis][2] #7, [Algebra][3] #12+, [Geome
 
 * [General Admission Information](https://gradschool.utexas.edu/how-to-apply)
 * [Mathematics Admission](https://www.ma.utexas.edu/academics/graduate/admissions)
+* [**MyStatus Page**(The one you go after submitting the form)](http://admissions.utexas.edu/mystatus)
 
 ### Applications(Mathematics)
 
